@@ -1,30 +1,24 @@
-import time
-import torch
-import json
-import os
-import numpy as np
-import scipy.io as sio
-import argparse
-import gc
-
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
-import torch.nn.functional as F
-
 from sklearn.metrics.pairwise import cosine_similarity
-from utility_gpt import *
-from perplexity import *
-import pickle
-import random
+from nltk.stem import PorterStemmer, LancasterStemmer
 from encode_keywords import create_enc_dict
 from collections import Counter
+from utility_gpt import *
+from perplexity import *
+import torch.nn.functional as F
+import pickle
+import random
+import time
+import torch
+import os
+import numpy as np
+import argparse
 
-from nltk.stem import PorterStemmer, LancasterStemmer
 
 porter = PorterStemmer()
 
-
+# check word embedding table
 word_embedding = {"glove": "glove-wiki-gigaword-300", "word2vec": "word2vec-google-news-300"}
-
 
 if not os.path.exists(str(os.path.dirname(os.path.abspath(__file__))) + "/data/converter_table_glove.npy"):
     print("Generating table of cosine distances...")
@@ -34,9 +28,9 @@ if not os.path.exists(str(os.path.dirname(os.path.abspath(__file__))) + "/data/c
     print("Generating table of cosine distances...")
     converter_table_word2vec()
 
-
+# to check repetition
 def distinct_n(example, n, n_distinct, n_total, counter):
-    """
+    """NOTE:
     Gives the number of distinct n-grams as well as the total n-grams
     Args:
         example: input text
@@ -44,8 +38,8 @@ def distinct_n(example, n, n_distinct, n_total, counter):
         n_distinct: distinct n-grams in previous iteration
         n_total: total n-grams in previous iteration
         counter: token counter in previous iteration, i.e., how many times a token appeared
-
     """
+
     for token in zip(*(example[i:] for i in range(n))):
         if token not in counter:
             n_distinct += 1
@@ -57,7 +51,8 @@ def distinct_n(example, n, n_distinct, n_total, counter):
 
 
 def top_k_top_p_filtering(logits, top_k=0, top_p=0.0, filter_value=-float("Inf")):
-    """Filter a distribution of logits using top-k and/or nucleus (top-p) filtering
+    """NOTE:
+    Filter a distribution of logits using top-k and/or nucleus (top-p) filtering
     Args:
         logits: logits distribution shape (vocabulary size)
         top_k >0: keep only top k tokens with highest probability (top-k filtering).
@@ -89,6 +84,7 @@ def top_k_top_p_filtering(logits, top_k=0, top_p=0.0, filter_value=-float("Inf")
     return logits
 
 
+# 다음에 등장할 키워드를 선택 / next: guide order / mode: unordered control
 def get_keywords(keywords, enc_dict, tokenizer, mode):
     keywords_ = [w for w in keywords]
 
@@ -753,7 +749,7 @@ def get_args(parser):
     parser.add_argument("-do_guarantee", type=bool, default=False)
     parser.add_argument("-embedding", type=str, default="glove", choices=list(word_embedding.keys()), help="word_embedding")
     parser.add_argument(
-        "-file_name", type=str, default="data/50_keywordsets_eval/word_sets.txt"
+        "-file_name", type=str, default="data/text/word_sets_test1.txt"
     )  # data/50_keywordsets_eval/word_sets data/commongen_small/commongen.dev.src_alpha_small.txt
     parser.add_argument("-det_BS", type=bool, default=False)
     parser.add_argument("-guide", type=bool, default=True)

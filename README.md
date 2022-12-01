@@ -1,3 +1,9 @@
+
+```py
+python main.py -mode='next' -file_name=/data/test/word_sets_test1.txt -results_subfolder=guide_vs_no_guide_beams -weight=5.0 -top_p=0.9 -n_generated_sentences=90 -n_beams=4 -do_guarantee=True
+
+python main.py -mode='next' -file_name=/data/50_keywordsets_eval/word_sets.txt -results_subfolder=guide_vs_no_guide_beams -weight=5.0 -top_p=0.9 -n_generated_sentences=90 -n_beams=4 -do_guarantee=True
+```
 # Keyword2Text
 
 This repository contains the code of the paper: "A Plug-and-Play Method for Controlled Text Generation", if you find this useful and use it for your own research, please cite us.

@@ -1,0 +1,6 @@
+glad, happy, pleased, delighted, thrilled
+unhappy, depressed, melancholy, mournful, dejected
+daddy, dad, father, papa, grandfather
+founder, author, architect, creator, inventor
+boy, man, men, dad, male
+girl, sister, mother, woman, female
