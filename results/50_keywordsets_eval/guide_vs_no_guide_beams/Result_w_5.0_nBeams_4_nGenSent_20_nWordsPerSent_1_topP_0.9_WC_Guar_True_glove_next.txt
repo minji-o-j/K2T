@@ -1,0 +1,794 @@
+Keywords: 
+enemy speed meet colony mouth 
+
+Final sequence: 
+
+<|endoftext|>In Enemy of the State speedruns, the meet-up colony is the mouthpiece of the cluster
+
+Success_rate: 1.0
+Perplexity: 150.34867492096936
+Time_needed: 76.61991858482361
+Success_length: 0.8
+2_distint_rate: 0.8947
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+suit valley speak wing tie 
+
+Final sequence: 
+
+<|endoftext|>You can't suit up for the Valley Football League and speak with wing- tie anvils.
+
+Success_rate: 1.0
+Perplexity: 260.02918550237155
+Time_needed: 81.54492282867432
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+dad store glad wire decimal 
+
+Final sequence: 
+
+<|endoftext|>Have you ever wondered what Dad would do if store-bought Glad wire were decimal points on the
+
+Success_rate: 1.0
+Perplexity: 190.52102103038595
+Time_needed: 90.2923424243927
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+touch nation chief edge wire 
+
+Final sequence: 
+
+<|endoftext|>The number of touch-screen devices in nation's chief executive offices edge up to wirelessly-connected
+
+Success_rate: 1.0
+Perplexity: 148.7279186704922
+Time_needed: 79.47288680076599
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+poem temperature sky crop silent 
+
+Final sequence: 
+
+<|endoftext|>This is a poem I wrote for a temperature-controlled skybox crop in Silent Spring. I also
+
+Success_rate: 1.0
+Perplexity: 106.86052983019442
+Time_needed: 88.22647380828857
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+effect neighbor gas oxygen term 
+
+Final sequence: 
+
+<|endoftext|>A new effect known as the neighbor effect has been gasping oxygen into the term "honeypot
+
+Success_rate: 1.0
+Perplexity: 138.5555811461779
+Time_needed: 97.47673225402832
+Success_length: 0.75
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+feed salt molecule lot represent 
+
+Final sequence: 
+
+<|endoftext|>Feedback
+
+
+Saltwater molecule can be lot of different shapes represent different substances (water,
+
+Success_rate: 1.0
+Perplexity: 391.0807388857216
+Time_needed: 86.36589813232422
+Success_length: 0.75
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+lady dear lot except region 
+
+Final sequence: 
+
+<|endoftext|>Lady Gaga at the Dearborn Lottery on May 1 except for the region on the left. (
+
+Success_rate: 1.0
+Perplexity: 97.3871569930562
+Time_needed: 94.57843780517578
+Success_length: 0.75
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+guide jump eight row settle 
+
+Final sequence: 
+
+<|endoftext|>Introduction
+
+
+Guide to the Jump-in and Eight- row configurations of settle.
+
+
+
+Success_rate: 1.0
+Perplexity: 553.990607028311
+Time_needed: 97.97217011451721
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+rise favor soft tie tie 
+
+Final sequence: 
+
+<|endoftext|>The Rise of the American Favorites Soft- tie- tie-tie New Mexico - one of America
+
+Success_rate: 1.0
+Perplexity: 366.28470428165195
+Time_needed: 72.30261397361755
+Success_length: 0.6
+2_distint_rate: 0.7895
+3_distint_rate: 0.8889
+4_distint_rate: 1.0000
+
+Keywords: 
+excite quite capital trip lady 
+
+Final sequence: 
+
+<|endoftext|>Course Conditions
+
+
+Course Details
+
+
+Click Yahoo Yahoo Yahoo Yahoo excite quite capital trip lady
+
+Success_rate: 1.0
+Perplexity: 3263.561179616597
+Time_needed: 118.41017460823059
+Success_length: 1.0
+2_distint_rate: 0.7222
+3_distint_rate: 0.8824
+4_distint_rate: 1.0000
+
+Keywords: 
+oxygen anger art spoke race 
+
+Final sequence: 
+
+<|endoftext|>Star Wars: The Force Awakens oxygenates the anger of art critics and spoke to race.
+
+
+
+Success_rate: 1.0
+Perplexity: 149.07653889895695
+Time_needed: 98.75193548202515
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+joy require chicken else cow 
+
+Final sequence: 
+
+<|endoftext|>There's a joy to be found in requiring your chicken to be else- cow-free.
+
+
+Success_rate: 1.0
+Perplexity: 76.34549110367331
+Time_needed: 92.42086553573608
+Success_length: 0.8
+2_distint_rate: 0.8947
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+search major string cost village 
+
+Final sequence: 
+
+<|endoftext|>Chapter Search Results for Major-General Stringer Costello
+
+ Village Search Results for Major-General
+
+Success_rate: 1.0
+Perplexity: 303.3276909054075
+Time_needed: 82.21303153038025
+Success_length: 0.65
+2_distint_rate: 0.4444
+3_distint_rate: 0.5294
+4_distint_rate: 0.6250
+
+Keywords: 
+enemy dad thick crowd length 
+
+Final sequence: 
+
+<|endoftext|>As we enter the enemy's territory, my dad is thick as thieves crowding lengthways into the
+
+Success_rate: 1.0
+Perplexity: 254.04813234577497
+Time_needed: 102.3001024723053
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+engine experiment caught chair visit 
+
+Final sequence: 
+
+<|endoftext|>1 of 1 2 of 1 engine failure in experiment caught on camera chair in visit to aircraft after crash
+
+Success_rate: 1.0
+Perplexity: 356.2155285605487
+Time_needed: 91.32487082481384
+Success_length: 0.8
+2_distint_rate: 0.8947
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+represent substance student tone million 
+
+Final sequence: 
+
+<|endoftext|>Community Rating:
+
+
+Community Rating represent substance of the student's tone of million miles per hour
+
+Success_rate: 1.0
+Perplexity: 9534.799729579217
+Time_needed: 107.16364860534668
+Success_length: 0.85
+2_distint_rate: 0.8889
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+ring imagine human fruit shout 
+
+Final sequence: 
+
+<|endoftext|>With the Ring of Honor World Championship just imagine what it would humanly fruit if shoutouts like "
+
+Success_rate: 1.0
+Perplexity: 225.44872007754944
+Time_needed: 101.05590748786926
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+matter dad flat control women 
+
+Final sequence: 
+
+<|endoftext|>It's no matter what you do dad, you flat out control women
+
+
+Men and women
+
+Success_rate: 1.0
+Perplexity: 113.10707130033933
+Time_needed: 85.46444606781006
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+stone anger include milk scale 
+
+Final sequence: 
+
+<|endoftext|>A small stone was found in the anger of the White include of milk. Scale: 1/10
+
+Success_rate: 1.0
+Perplexity: 172.58985629362817
+Time_needed: 98.04818487167358
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+slip visit material reply cow 
+
+Final sequence: 
+
+<|endoftext|>As I slip a visit to the materialist reply to my cow, I know I am going to
+
+Success_rate: 1.0
+Perplexity: 125.58999515497261
+Time_needed: 82.44789910316467
+Success_length: 0.65
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+safe drop wife eight matter 
+
+Final sequence: 
+
+<|endoftext|>It's safe to say that the drop in wife-beating in eight years matter-of-
+
+Success_rate: 1.0
+Perplexity: 38.84382953602431
+Time_needed: 95.22310638427734
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+ball hurry lost smell plural 
+
+Final sequence: 
+
+<|endoftext|>
+The Ballad of Gay Tony is hurry-up lost-cause smell- plural.
+
+
+
+Success_rate: 1.0
+Perplexity: 937.8336769291994
+Time_needed: 97.37738609313965
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+push choose bright trouble human 
+
+Final sequence: 
+
+<|endoftext|>Breaking News Emails Get breaking news alerts and special push-ups to choose from Bright Start Trouble human resources
+
+Success_rate: 1.0
+Perplexity: 310.40039591644336
+Time_needed: 115.99987769126892
+Success_length: 0.95
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+chance bed forward kill hair 
+
+Final sequence: 
+
+<|endoftext|>Every Chance You Get is a bedtime story for forward-thinking Killers hair and makeup artist,
+
+Success_rate: 1.0
+Perplexity: 167.60214704628783
+Time_needed: 95.50060796737671
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+blow mass brother market roll 
+
+Final sequence: 
+
+<|endoftext|>The latest blow to the mass-transit brotherhood comes from Market Basket roll-out "
+
+Success_rate: 1.0
+Perplexity: 149.32526012846543
+Time_needed: 103.12793493270874
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+block quite dead subtract band 
+
+Final sequence: 
+
+<|endoftext|>Rep. Adam Block (D-Ohio) quite literally deadpanned subtracting bandaids from
+
+Success_rate: 1.0
+Perplexity: 116.41175100891789
+Time_needed: 95.92721676826477
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+difficult shine practice stream supply 
+
+Final sequence: 
+
+<|endoftext|>Let me start by saying that I think difficult things shine through in practice. Streamlining supply chains is
+
+Success_rate: 1.0
+Perplexity: 64.91984794291498
+Time_needed: 105.79336929321289
+Success_length: 0.9
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+corn magnet team symbol egg 
+
+Final sequence: 
+
+<|endoftext|>The cornucopia of magnet teaming is a symbol of the Egg of Life.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 109.16449083880045
+Time_needed: 82.85612964630127
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+experiment cost third wrong melody 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A B experiment in cost-cutting Third Party Wrong melody, Key of
+
+Success_rate: 1.0
+Perplexity: 860.9004842600915
+Time_needed: 99.76966905593872
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+deal heavy cell spend shall 
+
+Final sequence: 
+
+<|endoftext|>It was a deal that would have been heavy-handed and cell-phone spendth shallowness
+
+Success_rate: 1.0
+Perplexity: 149.85388522068504
+Time_needed: 106.48155879974365
+Success_length: 0.9
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+join circle describe led save 
+
+Final sequence: 
+
+<|endoftext|>You may join the Circle of the Moon as described in the Ledger and save your tokens. Or
+
+Success_rate: 1.0
+Perplexity: 84.1041131245067
+Time_needed: 91.79275798797607
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+stream create sugar parent crop 
+
+Final sequence: 
+
+<|endoftext|>A major stream of new jobs created in the sugar industry in the parent crops of the nation's most
+
+Success_rate: 1.0
+Perplexity: 66.37526160874036
+Time_needed: 88.92425584793091
+Success_length: 0.75
+2_distint_rate: 0.8947
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+desert wild crop bear enemy 
+
+Final sequence: 
+
+<|endoftext|>"The desert is wild and the crop bears all the enemy. But this was not the spring of
+
+Success_rate: 1.0
+Perplexity: 104.58125536709103
+Time_needed: 73.38188648223877
+Success_length: 0.6
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+paragraph anger quite general led 
+
+Final sequence: 
+
+<|endoftext|>In a paragraph full of anger and quite possibly generalisation about the lede:
+
+
+"
+
+Success_rate: 1.0
+Perplexity: 215.40962060134987
+Time_needed: 77.69636225700378
+Success_length: 0.65
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+born ride collect milk rose 
+
+Final sequence: 
+
+<|endoftext|>As a born and raised ride share driver, you collect the milk and the rose petals of your
+
+Success_rate: 1.0
+Perplexity: 114.35688092052415
+Time_needed: 82.08226561546326
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+cost thank summer control nose 
+
+Final sequence: 
+
+<|endoftext|>The cost of living in the US thank you very much summer is here control your nose with the money
+
+Success_rate: 1.0
+Perplexity: 200.83152901870005
+Time_needed: 101.87627124786377
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+increase village gather summer fit 
+
+Final sequence: 
+
+<|endoftext|>To increase the number of village residents and gather more summer visitors to fit with the ebb and flow
+
+Success_rate: 1.0
+Perplexity: 92.26654054471022
+Time_needed: 86.19323897361755
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+tone speech represent century duck 
+
+Final sequence: 
+
+<|endoftext|>The tone of the speech was set by the representational image of century-old duck in the snow
+
+Success_rate: 1.0
+Perplexity: 76.14444014713975
+Time_needed: 97.86009526252747
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+particular summer insect rise nature 
+
+Final sequence: 
+
+<|endoftext|>One of the most important aspects of particular summer nights is insect activity. Rise and nature comes to life
+
+Success_rate: 1.0
+Perplexity: 159.9093947917807
+Time_needed: 99.24943971633911
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+anger yet experiment enter eight 
+
+Final sequence: 
+
+<|endoftext|>There's anger in yet another experiment. The Enterpreneur eight-on-eight league,
+
+Success_rate: 1.0
+Perplexity: 236.46141075183826
+Time_needed: 81.91370368003845
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+favor crowd consonant vary melody 
+
+Final sequence: 
+
+<|endoftext|>Have you ever wanted to favor a crowd of people over a vowel vowel vowel vowel vowel consonant vary melody
+
+Success_rate: 1.0
+Perplexity: 317.3618696312937
+Time_needed: 113.96548199653625
+Success_length: 1.0
+2_distint_rate: 0.8000
+3_distint_rate: 0.8421
+4_distint_rate: 0.8889
+
+Keywords: 
+mount print particular range swim 
+
+Final sequence: 
+
+<|endoftext|>The Mountaineers are in the print shop for the particular range of swimwear they'll be wearing
+
+Success_rate: 1.0
+Perplexity: 57.949626653199374
+Time_needed: 94.52109861373901
+Success_length: 0.75
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+spring trip instrument subject choose 
+
+Final sequence: 
+
+<|endoftext|>Welcome to the Spring Trip!
+
+
+The instrument is subject to change choose with your own discretion
+
+Success_rate: 1.0
+Perplexity: 129.2884254715738
+Time_needed: 93.30282306671143
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+fair corn tall cotton decimal 
+
+Final sequence: 
+
+<|endoftext|>"It was fair to say that Cornish was tall and thin cotton-w decimal-point-
+
+Success_rate: 1.0
+Perplexity: 282.46245175018646
+Time_needed: 99.47788858413696
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+age sheet solution evening view 
+
+Final sequence: 
+
+<|endoftext|>What is age of consent? Sheet1 Solution
+
+
+The evening before the Viewer's Guide
+
+Success_rate: 1.0
+Perplexity: 205.36738380433312
+Time_needed: 95.19892930984497
+Success_length: 0.85
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+child lake leg flower camp 
+
+Final sequence: 
+
+<|endoftext|>If you have child care in Lakewood, LEGOLAND Flower Camp is the place to stop.
+
+Success_rate: 1.0
+Perplexity: 85.89896070659337
+Time_needed: 84.95106267929077
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+shall organ connect noon steel 
+
+Final sequence: 
+
+<|endoftext|>Good Shall You Eat
+Organic will connect you to noon, the steelworkers, the milw
+
+Success_rate: 1.0
+Perplexity: 427.7495924742943
+Time_needed: 84.55199217796326
+Success_length: 0.75
+2_distint_rate: 0.8947
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+truck populate brother stone bank 
+
+Final sequence: 
+
+<|endoftext|>http://tvtropes.org truckers populate the brotherhood stone bank and the hood of the
+
+Success_rate: 1.0
+Perplexity: 197.35133018068473
+Time_needed: 87.18143844604492
+Success_length: 0.75
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+element control size increase speech 
+
+Final sequence: 
+
+<|endoftext|>The New York element of the control of the size of the increase in the speech of a citizen,
+
+Success_rate: 1.0
+Perplexity: 69.70800408499395
+Time_needed: 94.2314043045044
+Success_length: 0.8
+2_distint_rate: 0.8421
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+

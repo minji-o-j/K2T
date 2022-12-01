@@ -1,0 +1,137 @@
+Keywords: 
+glad happy pleased delighted thrilled 
+
+Final sequence: 
+
+<|endoftext|>If you're looking for a way to get your hands on a copy of the game, you can get it here.
+
+
+The game is available in English, French, German, Italian, Spanish, Portuguese, Russian, Polish, Czech, Hungarian, Korean, Japanese, Simplified Chinese, Traditional Chinese, and Simplified Chinese Traditional.
+
+
+The game is also available in the following languages:
+
+
+English
+
+
+French
+
+
+
+
+Success_rate: 0.0
+Perplexity: 6.900459845813026
+Time_needed: 462.4076871871948
+Success_length: 0.0
+2_distint_rate: 0.7586
+3_distint_rate: 0.8837
+4_distint_rate: 0.9294
+
+Keywords: 
+unhappy depressed melancholy mournful dejected 
+
+Final sequence: 
+
+<|endoftext|>This is the unhappy story of a man who has spent the last few years in a depressed and melancholy state. He has been diagnosed with depression and anxiety, and has been prescribed antidepressants. He has been taking them for the last two years.
+
+
+He has been taking them for the last two years.
+
+
+He has been taking them for the last two years.
+
+
+He has been taking them for the last two years.
+
+
+
+Success_rate: 0.6
+Perplexity: 6.859600240822195
+Time_needed: 462.1551914215088
+Success_length: 0.0
+2_distint_rate: 0.3563
+3_distint_rate: 0.3953
+4_distint_rate: 0.4235
+
+Keywords: 
+daddy dad father papa grandfather 
+
+Final sequence: 
+
+<|endoftext|>We're back with another episode of the All-Star Breakcast, and this time we're talking about the All-Star Game. We talk about the history of the All-Star Game, the history of the All-Star Game, and the history of the All-Star Game. We also talk about the new All-Star Game format, and we talk about the All-Star Game.
+
+
+All-Star Breakcast: Episode
+
+Success_rate: 0.0
+Perplexity: 5.690928875063449
+Time_needed: 532.5241680145264
+Success_length: 0.0
+2_distint_rate: 0.3483
+3_distint_rate: 0.4886
+4_distint_rate: 0.6207
+
+Keywords: 
+founder author architect creator inventor 
+
+Final sequence: 
+
+<|endoftext|>Rep. Steve King (R-Iowa) said on Sunday that he believes President Barack Obama is a Muslim.
+
+
+"I think he's a Muslim," King said on CNN's "State of the Union." "I think he's a Muslim. I think he's a Muslim. I think he's a Muslim. I think he's a Muslim. I think he's a Muslim. I think he's a Muslim. I think he
+
+Success_rate: 0.0
+Perplexity: 2.4342597725045865
+Time_needed: 643.2171318531036
+Success_length: 0.0
+2_distint_rate: 0.4091
+3_distint_rate: 0.4598
+4_distint_rate: 0.4884
+
+Keywords: 
+boy man men dad male 
+
+Final sequence: 
+
+<|endoftext|>In a recent interview with Manu Ginobili, the San Antonio Spurs' All-Star center said he would be open to playing for the Los Angeles Lakers if they offered him a chance to play alongside Kobe Bryant.
+
+
+"I would love to play with Kobe," Ginobili said. "I would love to play with him. I would love to play with him. I would love to play with him. I would love to
+
+Success_rate: 0.2
+Perplexity: 3.855925913035607
+Time_needed: 528.1983716487885
+Success_length: 0.0
+2_distint_rate: 0.5909
+3_distint_rate: 0.6437
+4_distint_rate: 0.6860
+
+Keywords: 
+girl sister mother woman female 
+
+Final sequence: 
+
+<|endoftext|>More than a dozen people were injured in a shooting at a party in the city's west end Saturday night.
+
+
+The girl who was shot was taken to hospital with non-life threatening injuries.
+
+
+Police say the mother of the girl was at the party with her sister and her boyfriend when the woman was shot.
+
+
+The girl was taken to hospital with non-life threatening injuries.
+
+
+Police say the female who was shot
+
+Success_rate: 1.0
+Perplexity: 6.937965801023507
+Time_needed: 534.0421433448792
+Success_length: 0.9666666666666667
+2_distint_rate: 0.5000
+3_distint_rate: 0.6092
+4_distint_rate: 0.6512
+

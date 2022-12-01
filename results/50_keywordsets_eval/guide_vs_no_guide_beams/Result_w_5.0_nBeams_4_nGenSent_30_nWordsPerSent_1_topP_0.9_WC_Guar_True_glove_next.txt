@@ -1,0 +1,593 @@
+Keywords: 
+enemy speed meet colony mouth 
+
+Final sequence: 
+
+<|endoftext|>CLOSE An enemy of the United States speedboat was shot down by a meet-and-greet colony in the mouth of the Mississippi River. But
+
+Success_rate: 1.0
+Perplexity: 31.31071678489111
+Time_needed: 120.42235732078552
+Success_length: 0.8
+2_distint_rate: 0.9310
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+suit valley speak wing tie 
+
+Final sequence: 
+
+<|endoftext|>This is a suit in the Valley of the Shadow of Death Speak to Wingull in the Dark Tie Inn. He says that he wants to know what
+
+Success_rate: 1.0
+Perplexity: 122.90103434380866
+Time_needed: 92.79811382293701
+Success_length: 0.5333333333333333
+2_distint_rate: 0.9333
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+dad store glad wire decimal 
+
+Final sequence: 
+
+<|endoftext|>Here is my dad's collection of original store-bought items that I am glad to have wire-framed decimal points into!
+
+
+
+
+Success_rate: 1.0
+Perplexity: 67.19236235049817
+Time_needed: 123.726722240448
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+touch nation chief edge wire 
+
+Final sequence: 
+
+<|endoftext|>I'm not sure if this is a touchy subject for most people but the nation's chief technology officer edge case is wirelessly charging your phone or
+
+Success_rate: 1.0
+Perplexity: 58.59719433352001
+Time_needed: 156.25360894203186
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+poem temperature sky crop silent 
+
+Final sequence: 
+
+<|endoftext|>This post is part of a poem I wrote for a class at the temperature-controlled Skyline High School in crop circles. Silent Stars Cry
+
+
+
+Success_rate: 1.0
+Perplexity: 148.60577541952622
+Time_needed: 152.89510869979858
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+effect neighbor gas oxygen term 
+
+Final sequence: 
+
+<|endoftext|>This is a discussion on The Effect of the Neighbor on the Gasoline Prices of the Gas Station oxygenated [ term=the gas at the station=
+
+Success_rate: 1.0
+Perplexity: 222.76925676913655
+Time_needed: 134.6341962814331
+Success_length: 0.7666666666666667
+2_distint_rate: 0.8621
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+feed salt molecule lot represent 
+
+Final sequence: 
+
+<|endoftext|>(CNN) The first feed from the plane that crashed in Salt Lake City, Utah, molecule-by-me lot of representational progress for the
+
+Success_rate: 1.0
+Perplexity: 96.97432001353198
+Time_needed: 168.05857110023499
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+lady dear lot except region 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A B C D E F Ladybug Dear friends and family I have lot of news except for the region, due to
+
+Success_rate: 1.0
+Perplexity: 115.42720371880165
+Time_needed: 157.10259103775024
+Success_length: 0.9
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+guide jump eight row settle 
+
+Final sequence: 
+
+<|endoftext|>Color Guide
+
+
+Jump to a specific color and use the eight- row keyboard to change the settled effect. Use the search engine to find similar
+
+Success_rate: 1.0
+Perplexity: 129.18144617976174
+Time_needed: 129.2610182762146
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+rise favor soft tie tie 
+
+Final sequence: 
+
+<|endoftext|>The New York Times reported that the rise of the Islamic State in favor of soft power is tied to the fact that tie-dyed sweatshirts
+
+Success_rate: 1.0
+Perplexity: 34.094300188234016
+Time_needed: 138.5321900844574
+Success_length: 0.7333333333333333
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+excite quite capital trip lady 
+
+Final sequence: 
+
+<|endoftext|>I'm not going to lie to you. I am excited about this game quite a bit. Capitalizing on Tripwire Ladybug's previous successes,
+
+Success_rate: 1.0
+Perplexity: 38.84454264654967
+Time_needed: 152.97182631492615
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+oxygen anger art spoke race 
+
+Final sequence: 
+
+<|endoftext|>The Office of the Director of National Intelligence released oxygen levels in the atmosphere above the anger-filled art museum in Washington spoke volumes about race relations in the
+
+Success_rate: 1.0
+Perplexity: 60.984808379115975
+Time_needed: 169.57519149780273
+Success_length: 0.9
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+joy require chicken else cow 
+
+Final sequence: 
+
+<|endoftext|>Get daily updates directly to your inbox Subscribe Thank you for subscribing See our joyous coverage of the required chicken soup in our elsewhere cow town
+
+
+
+Success_rate: 1.0
+Perplexity: 398.62490894664575
+Time_needed: 161.32596802711487
+Success_length: 0.9
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+search major string cost village 
+
+Final sequence: 
+
+<|endoftext|>When we search for the best major cities in the world, we often string together a lot of cost-of-living village types: London, Paris
+
+Success_rate: 1.0
+Perplexity: 33.94875819430467
+Time_needed: 154.2370834350586
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+enemy dad thick crowd length 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not be in its final form enemyTrap dadTrap thick crowdTrap lengthTrap descriptionTrap
+
+Success_rate: 1.0
+Perplexity: 108.00551730877424
+Time_needed: 152.30754327774048
+Success_length: 0.8333333333333334
+2_distint_rate: 0.8276
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+engine experiment caught chair visit 
+
+Final sequence: 
+
+<|endoftext|>Breaking News Emails Get breaking news alerts and special reports engine.news.com Experiment with the latest caught in a chair. Visit for more information.
+
+
+Success_rate: 1.0
+Perplexity: 235.77405107107936
+Time_needed: 147.5160472393036
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+represent substance student tone million 
+
+Final sequence: 
+
+<|endoftext|>A new study from the University of California, Berkeley represents the first time that substance abuse has been linked to student performance on tone- million. The study
+
+Success_rate: 1.0
+Perplexity: 41.109204959869444
+Time_needed: 164.26342010498047
+Success_length: 0.9
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+ring imagine human fruit shout 
+
+Final sequence: 
+
+<|endoftext|>For those who have been following the Ring of Honor and New Japan Pro Imagine events, it is human nature to fruitlessly shout out a lot of things
+
+Success_rate: 1.0
+Perplexity: 69.02711887100106
+Time_needed: 146.1444592475891
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+matter dad flat control women 
+
+Final sequence: 
+
+<|endoftext|>The following is a matter of public record. Dad-of-two Flatbush resident and control board member of Women and Families in New York, Peter
+
+Success_rate: 1.0
+Perplexity: 60.445652274005596
+Time_needed: 138.8725700378418
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+stone anger include milk scale 
+
+Final sequence: 
+
+<|endoftext|>HONG KONG (Reuters) - A stone's throw from anger and despair in the include of Hong Kong milk and scale factory is a pair of
+
+Success_rate: 1.0
+Perplexity: 120.59623245818715
+Time_needed: 154.6643350124359
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+slip visit material reply cow 
+
+Final sequence: 
+
+<|endoftext|>I want to start off by saying Slipknot is one of my favorite visit to the material world. Reply Delete
+Coworking in San Francisco
+
+Success_rate: 1.0
+Perplexity: 72.040664160407
+Time_needed: 149.91055369377136
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+safe drop wife eight matter 
+
+Final sequence: 
+
+<|endoftext|>The New York Times has a safe space for people to drop their political opinions and wife them to the eight-year matter of making up their minds.
+
+Success_rate: 1.0
+Perplexity: 60.07394897864912
+Time_needed: 153.41034603118896
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+ball hurry lost smell plural 
+
+Final sequence: 
+
+<|endoftext|>It's not just the ballers who get a little hurry-up time lost when they smell the roses. The plural of "rush" is "
+
+Success_rate: 1.0
+Perplexity: 56.04366690895159
+Time_needed: 143.45609736442566
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+push choose bright trouble human 
+
+Final sequence: 
+
+<|endoftext|>The push to create a new generation of choose-your-own- bright-line trouble-free human wasp, once derided by scientists as
+
+Success_rate: 1.0
+Perplexity: 116.11897439759996
+Time_needed: 125.99633049964905
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+chance bed forward kill hair 
+
+Final sequence: 
+
+<|endoftext|>If you have a chance to see the new trailer for Bedtime Stories: The Forward, you will kill me. Hair's on fire, lips are
+
+Success_rate: 1.0
+Perplexity: 60.997808445280484
+Time_needed: 139.30408716201782
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+blow mass brother market roll 
+
+Final sequence: 
+
+<|endoftext|>According to the New York Times, the blowback from the mass shooting in Las Vegas brother of the market capital of roll-up-your-s
+
+Success_rate: 1.0
+Perplexity: 61.70697342213644
+Time_needed: 148.0346236228943
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+block quite dead subtract band 
+
+Final sequence: 
+
+<|endoftext|>Blockchain is quite possibly the most important technology in the world today dead or alive. It subtracts a band-aid from something that isn't looking
+
+Success_rate: 1.0
+Perplexity: 45.11880990286084
+Time_needed: 132.6982398033142
+Success_length: 0.7333333333333333
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+difficult shine practice stream supply 
+
+Final sequence: 
+
+<|endoftext|>President Donald Trump on Tuesday said he would not be difficult to work with, despite his shine-in- practice of streamlining supply-side tax cuts
+
+Success_rate: 1.0
+Perplexity: 62.27157194054666
+Time_needed: 149.93016719818115
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+corn magnet team symbol egg 
+
+Final sequence: 
+
+<|endoftext|>In the summer of 2013, Cornish University in the UK Magnet Team was asked to symbolically place eggs on an isolated island off the coast of Cornwall
+
+Success_rate: 1.0
+Perplexity: 58.66073938348473
+Time_needed: 131.2822711467743
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+experiment cost third wrong melody 
+
+Final sequence: 
+
+<|endoftext|>One of the most important experiments that cost the third largest amount of money in the wrong direction was the melody generator. To get an idea of how much
+
+Success_rate: 1.0
+Perplexity: 39.70083283481101
+Time_needed: 122.39002180099487
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+deal heavy cell spend shall 
+
+Final sequence: 
+
+<|endoftext|>After a deal was struck between the government and heavy metal band Death Cells to spend $1 million to create shallower water in the Mississippi Delta, the
+
+Success_rate: 1.0
+Perplexity: 51.980572191998675
+Time_needed: 139.79741621017456
+Success_length: 0.7333333333333333
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+join circle describe led save 
+
+Final sequence: 
+
+<|endoftext|>A new study led by researchers at the University of Washington joins a growing circle of researchers who describe the benefits of a save-the-date policy for
+
+Success_rate: 1.0
+Perplexity: 23.21257896045399
+Time_needed: 143.94916367530823
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+stream create sugar parent crop 
+
+Final sequence: 
+
+<|endoftext|>I'm going to stream a bunch of games this weekend and create a weekly sugar rush for the parent of a cropduster, so I thought it
+
+Success_rate: 1.0
+Perplexity: 77.5629199690512
+Time_needed: 132.62574124336243
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+desert wild crop bear enemy 
+
+Final sequence: 
+
+<|endoftext|>https://www.tripadvisor.com › Desert › Wild Cached Similar
+
+
+ crop circle in bear desert near enemy country. The circle
+
+Success_rate: 1.0
+Perplexity: 376.4944984390172
+Time_needed: 126.92152690887451
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+paragraph anger quite general led 
+
+Final sequence: 
+
+<|endoftext|>Last week, the paragraph in the Washington Post angering the right quite a bit was this general one about the lede:
+
+
+"As
+
+Success_rate: 1.0
+Perplexity: 119.23677717440661
+Time_needed: 108.8365421295166
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+born ride collect milk rose 
+
+Final sequence: 
+
+<|endoftext|>The city of San Francisco has been born out of the ride-sharing boom. Collectively, the Milk and Honey rose to become one of the country
+
+Success_rate: 1.0
+Perplexity: 35.65852323583183
+Time_needed: 113.32327270507812
+Success_length: 0.8
+2_distint_rate: 0.9310
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+cost thank summer control nose 
+
+Final sequence: 
+
+<|endoftext|>The cost of living in the United States has thank-you to the summer of 2014 for the control freak in the nosebleed seats.
+
+
+
+Success_rate: 1.0
+Perplexity: 89.65237858472052
+Time_needed: 117.89917755126953
+Success_length: 0.8
+2_distint_rate: 0.9286
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+increase village gather summer fit 
+
+Final sequence: 
+
+<|endoftext|>In a recent interview with the increase of the village of Nijmegen to gather information about the summer camp of Fitri, German police arrested several
+
+Success_rate: 1.0
+Perplexity: 74.0380226714157
+Time_needed: 123.4979600906372
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+

@@ -1,0 +1,111 @@
+Keywords: 
+glad happy pleased delighted thrilled 
+
+Final sequence: 
+
+<|endoftext|>It's been a while since I've posted anything here, but I wanted to make sure I got it out there that I am glad to be back. I am happy to say that I am pleased to announce that I am delighted to announce that I am thrilled to announce that I will be writing a new season of The Life and Times of Orson Welles!
+
+
+Recently, it came to my attention that there is quite a bit of
+
+Success_rate: 1.0
+Perplexity: 11.34149617453739
+Time_needed: 295.9808728694916
+Success_length: 0.5777777777777777
+2_distint_rate: 0.8182
+3_distint_rate: 0.8851
+4_distint_rate: 0.9419
+
+Keywords: 
+unhappy depressed melancholy mournful dejected 
+
+Final sequence: 
+
+<|endoftext|>What is the difference between a parent and a child? What is the difference between a parent and a child? What is the difference between a parent and a child unhappy with their parent? What is the difference between a parent and a depressed child? What is the difference between a parent and a melancholy child? What is the difference between a parent and a sad child? What is the difference haunting haunting haunting haunting haunting haunting haunting haunting haunting haunting haunting mournful dejected
+
+Success_rate: 1.0
+Perplexity: 7.353099726896853
+Time_needed: 479.9745168685913
+Success_length: 1.0
+2_distint_rate: 0.1957
+3_distint_rate: 0.2527
+4_distint_rate: 0.3111
+
+Keywords: 
+daddy dad father papa grandfather 
+
+Final sequence: 
+
+<|endoftext|>Please enable Javascript to watch this video
+
+
+RICHMOND, Va. -- A father and son were shot and killed by a Richmond police officer during a traffic stop in the Daddy Long Legs neighborhood on Tuesday night.
+
+
+The dad was shot in the chest and the son was shot in the Papa Long Legs neighborhood.
+
+
+It happened around grandfather time around 8 p.m.
+
+
+A Richmond police spokesman said the shooting
+
+Success_rate: 1.0
+Perplexity: 13.288294632919769
+Time_needed: 420.3916094303131
+Success_length: 0.8222222222222222
+2_distint_rate: 0.7674
+3_distint_rate: 0.8941
+4_distint_rate: 0.9762
+
+Keywords: 
+founder author architect creator inventor 
+
+Final sequence: 
+
+<|endoftext|>Advertisement
+
+
+The founder of the U.S. Department of Homeland Security, Janet Napolitano, author of the recently released book Homeland Security: The Architect of Disaster, has been accused of being a creator of the so-called "war on terror." The inventor of the Patriot Act (the primary legislation for the way we are currently governed) said as much in her keynote address at the U.S. Homeland Security Conference in Washington,
+
+Success_rate: 1.0
+Perplexity: 14.542049114295034
+Time_needed: 344.5141463279724
+Success_length: 0.6111111111111112
+2_distint_rate: 0.8295
+3_distint_rate: 0.9310
+4_distint_rate: 0.9535
+
+Keywords: 
+boy man men dad male 
+
+Final sequence: 
+
+<|endoftext|>If you're looking for a man with a boy- men who like to get down and dirty with their Dad, then look no further than the male model department at H&M. From homeruns and catwalks to ready-made separates and multiple corsets, it doesn't matter what you are looking for.<|endoftext|>Dive Brief:
+
+
+A California power company has said the Coachella Valley Water District's plans to
+
+Success_rate: 1.0
+Perplexity: 46.00076854929393
+Time_needed: 241.1396141052246
+Success_length: 0.3333333333333333
+2_distint_rate: 0.9688
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+girl sister mother woman female 
+
+Final sequence: 
+
+<|endoftext|>Article: Girl group EXO's sister-in-law and mother-in-law are in a relationship Source: OSEN via Nate 1. [+1,827, - woman and father-in-law, female] Gaku had a big fan-favorites trend... 2. [+1,934, - woman and father-in-law, female] It seems like they're not very close, but it doesn
+
+Success_rate: 1.0
+Perplexity: 27.913032506373554
+Time_needed: 348.4795994758606
+Success_length: 0.5111111111111111
+2_distint_rate: 0.6180
+3_distint_rate: 0.6818
+4_distint_rate: 0.7471
+

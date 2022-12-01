@@ -1,0 +1,383 @@
+Keywords: 
+enemy speed meet colony mouth 
+
+Final sequence: 
+
+<|endoftext|>Have you ever wondered what the enemy of your enemy is doing in your own speedrun? Well Meet the Ninja is here to help you out. This colony of ninjas is your mouthpiece, and this is your friend. Meet the Ninja, a
+
+Success_rate: 1.0
+Perplexity: 27.769137905129064
+Time_needed: 225.95225358009338
+Success_length: 0.74
+2_distint_rate: 0.8776
+3_distint_rate: 0.9583
+4_distint_rate: 1.0000
+
+Keywords: 
+suit valley speak wing tie 
+
+Final sequence: 
+
+<|endoftext|>STARmeter SEE RANK Up 1,822 this week View rank on IMDbPro » Suitcase (I) Actor | Writer | Director See full bio » Valley Girl speaks with a Southern wing of the Tie Dye Mafia (TDDM
+
+Success_rate: 1.0
+Perplexity: 319.18029468226206
+Time_needed: 259.5534975528717
+Success_length: 0.86
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+dad store glad wire decimal 
+
+Final sequence: 
+
+<|endoftext|>My dad always used to store my stuff in Gladstone and the wire would come out of the bottom of the box. I never knew decimal numbers and lost lots of stuff. So today I thought I'd be clever and open it up and see what
+
+Success_rate: 1.0
+Perplexity: 45.204744550252165
+Time_needed: 177.4207890033722
+Success_length: 0.56
+2_distint_rate: 0.9600
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+touch nation chief edge wire 
+
+Final sequence: 
+
+<|endoftext|>It's not often that you see a touch-screen phone in the hands of a nation's chief executive, but that's exactly what the Edge is.
+
+
+Wireless AT&T's Edge is an Android-powered phone with a 1
+
+Success_rate: 1.0
+Perplexity: 25.756180844916614
+Time_needed: 220.7892394065857
+Success_length: 0.7
+2_distint_rate: 0.9583
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+poem temperature sky crop silent 
+
+Final sequence: 
+
+<|endoftext|>For the first time in history, the United States has a poem in its national anthem. It's a temperature poem, and it's about sky-high temperatures in the crop-growing state of Silent Spring, Washington, during the 1970s.
+
+
+Success_rate: 1.0
+Perplexity: 24.056073401270996
+Time_needed: 242.05780220031738
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+effect neighbor gas oxygen term 
+
+Final sequence: 
+
+<|endoftext|>Image copyright Getty Images Image caption The effect of the policy has been felt in other parts of the country
+
+
+A neighbor gas-fired power plant in the oxygen-rich region of the termites has been shut down for emergency repairs because of a
+
+Success_rate: 1.0
+Perplexity: 22.80119472656504
+Time_needed: 238.9490568637848
+Success_length: 0.78
+2_distint_rate: 0.8958
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+feed salt molecule lot represent 
+
+Final sequence: 
+
+<|endoftext|>Content Feed salt molecule enables lotion to be used as a biodegradable alternative to plastic Representation of salt molecule used to make inorganic biodegradable lotions
+
+
+Chemical Guys® exists to catalyze the cleaning, san
+
+Success_rate: 1.0
+Perplexity: 114.57416947136166
+Time_needed: 144.11463594436646
+Success_length: 0.4
+2_distint_rate: 0.8333
+3_distint_rate: 0.9149
+4_distint_rate: 0.9565
+
+Keywords: 
+lady dear lot except region 
+
+Final sequence: 
+
+<|endoftext|>The first lady of the United States, Melania Trump, has become the latest dear friend of the gay community to come out as a lot of the country except for her own region. She spoke out about her sexuality in a video clip released by the Human
+
+Success_rate: 1.0
+Perplexity: 18.241525027841124
+Time_needed: 217.49390649795532
+Success_length: 0.7
+2_distint_rate: 0.9388
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+guide jump eight row settle 
+
+Final sequence: 
+
+<|endoftext|>We Guide You Through The Jump Start Guide
+
+
+The eight-week jump start guide is designed to help you get rowdy in no time. It will settle your nerves and take the edge off on the start of the year.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 31.04504175509951
+Time_needed: 216.21082973480225
+Success_length: 0.66
+2_distint_rate: 0.9574
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+rise favor soft tie tie 
+
+Final sequence: 
+
+<|endoftext|>In the past year, the rise of the so-called Islamic State has brought a new wave of favoritism toward soft power. The Islamic State has tied itself in knots trying to tie up loose ends. Its former leader, Abu Bakr al-B
+
+Success_rate: 1.0
+Perplexity: 16.976184126063266
+Time_needed: 228.4566159248352
+Success_length: 0.74
+2_distint_rate: 0.9184
+3_distint_rate: 0.9583
+4_distint_rate: 1.0000
+
+Keywords: 
+excite quite capital trip lady 
+
+Final sequence: 
+
+<|endoftext|>Do you know what you're doing?
+
+
+Do you know what you're doing?
+
+
+Do you know what you're doing?
+
+
+Do you know what you Portal Portal Portal Portal Portal Portal Portal Portal Portal excite quite capital trip lady
+
+Success_rate: 1.0
+Perplexity: 22.009266425264872
+Time_needed: 308.96668004989624
+Success_length: 1.0
+2_distint_rate: 0.1429
+3_distint_rate: 0.1667
+4_distint_rate: 0.1915
+
+Keywords: 
+oxygen anger art spoke race 
+
+Final sequence: 
+
+<|endoftext|>It has been a while since I have done a post on oxygen, but I have been itching to get back into it. Anger is one of the art forms that spoke to me the most when I was race driver. All you have to do is
+
+Success_rate: 1.0
+Perplexity: 23.447054129139218
+Time_needed: 258.7109923362732
+Success_length: 0.84
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+joy require chicken else cow 
+
+Final sequence: 
+
+<|endoftext|>How to use the joysticks
+
+
+The required Joysticks are:
+
+
+Chicken Cow Left Joystick
+
+
+Chicken Cow Right Joystick or else you will not be able to play game
+
+
+Chicken Cow Light Left Joystick
+
+
+
+Success_rate: 1.0
+Perplexity: 39.211520144906046
+Time_needed: 208.09993243217468
+Success_length: 0.66
+2_distint_rate: 0.6304
+3_distint_rate: 0.7778
+4_distint_rate: 0.8864
+
+Keywords: 
+search major string cost village 
+
+Final sequence: 
+
+<|endoftext|>Better search results for major subreddits
+
+
+Search string
+
+
+The search string can be any of the following: Cost of living in your city Population density in village Clocks in your village
+
+
+If you find an item that matches your
+
+Success_rate: 1.0
+Perplexity: 70.44802353612214
+Time_needed: 214.3600823879242
+Success_length: 0.7
+2_distint_rate: 0.8913
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+enemy dad thick crowd length 
+
+Final sequence: 
+
+<|endoftext|>It's been a while since I've posted anything on here, so I thought I would give you enemy information that you should know about before you go dadgum thick.
+
+
+The crowd is a lot lengthier than the ones we saw
+
+Success_rate: 1.0
+Perplexity: 44.13944177443949
+Time_needed: 264.77071046829224
+Success_length: 0.88
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+engine experiment caught chair visit 
+
+Final sequence: 
+
+<|endoftext|>Fire Engine is an open source experiment that allows you to build and run your own fire engine in minutes. We caught up with the project's chair and co-founder to learn more about the visit and to see what they are building now.
+
+
+
+Success_rate: 1.0
+Perplexity: 21.773937976259187
+Time_needed: 239.25585174560547
+Success_length: 0.78
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+represent substance student tone million 
+
+Final sequence: 
+
+<|endoftext|>It's been a while since I've written a post about the Representation of Substance in 3D, but I'm back with a student project. This time, I want to tone down the 3 million+ lines of code. If you're familiar
+
+Success_rate: 1.0
+Perplexity: 23.902227441517518
+Time_needed: 261.4871416091919
+Success_length: 0.82
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+ring imagine human fruit shout 
+
+Final sequence: 
+
+<|endoftext|>In the latest ring of the FBI's investigation into Hillary Clinton's use of a private email server while she was secretary of state imagine the following scenario: A human rights activist, a fruit vendor, a shout artist, a lawyer, a security guard,
+
+Success_rate: 1.0
+Perplexity: 20.498215222827046
+Time_needed: 254.96681332588196
+Success_length: 0.82
+2_distint_rate: 0.9184
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+matter dad flat control women 
+
+Final sequence: 
+
+<|endoftext|>As the matter is now before the court, the Dadri lynching case is not just a flat-out case of communal violence but also a control of Women's Commission of India's powers to order state governments to ensure the safety of women in the
+
+Success_rate: 1.0
+Perplexity: 31.10238391940339
+Time_needed: 193.95524907112122
+Success_length: 0.64
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+stone anger include milk scale 
+
+Final sequence: 
+
+<|endoftext|>The Democratic National Committee (DNC) is the stone-cold embodiment of the anger and frustration that many Americans feel at the include the Republican Party and the billionaire class milking the system for scale. The DNC is an organization that, for all int
+
+Success_rate: 1.0
+Perplexity: 33.142362306725026
+Time_needed: 197.20341300964355
+Success_length: 0.78
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+slip visit material reply cow 
+
+Final sequence: 
+
+<|endoftext|>This is one of the most wonderful slipcovers I have ever seen. It is a visit to the site of the original material, and it is a reply to the visitor who asked if Cowdery's account was authentic. It's a remarkable
+
+Success_rate: 1.0
+Perplexity: 29.29136818647025
+Time_needed: 202.50784420967102
+Success_length: 0.78
+2_distint_rate: 0.8400
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+safe drop wife eight matter 
+
+Final sequence: 
+
+<|endoftext|>It's safe to say that the last few years have been a drop in the bucket for the wife of the head coach of the New York Jets and eight-time Pro Bowl tight end and matter-of-fact, no-nonsense dude,
+
+Success_rate: 1.0
+Perplexity: 15.226436945109569
+Time_needed: 212.6074800491333
+Success_length: 0.78
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
