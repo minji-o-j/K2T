@@ -1,3 +1,8 @@
+noon, midday, noonday, noontime, meridian
+speed, agility, pace, quickness, velocity
+stone, gem, metal, mineral, rock
+thick, broad, fat, chunky, wide
+student, undergraduate, junior, pupil, scholar
 age, life, maturity, youth, lifetime
 anger, rage, fury, outrage, resentment
 bank, fund, stock, store, treasury
@@ -18,8 +23,3 @@ glad, joyful, pleased, overjoyed, contented
 heavy, weighty, massive, hefty, bulky
 melody, lyric, music, refrain, chant
 joy, delight, glee, bliss, amusement
-noon, midday, noonday, noontide, meridian
-speed, agility, pace, quickness, velocity
-stone, gem, metal, mineral, rock
-thick, broad, fat, chunky, wide
-student, undergraduate, junior, pupil, scholar
