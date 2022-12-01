@@ -381,3 +381,149 @@ Success_length: 0.78
 3_distint_rate: 1.0000
 4_distint_rate: 1.0000
 
+Keywords: 
+ball hurry lost smell plural 
+
+Final sequence: 
+
+<|endoftext|>It was a ball of fire.
+
+
+The first thing I noticed was that it smelled good. It had a very nice hurry to it. It was very lost in the smoke.
+
+
+I pluralized it, calling it a "flame
+
+Success_rate: 1.0
+Perplexity: 35.03172741651425
+Time_needed: 214.20011281967163
+Success_length: 0.84
+2_distint_rate: 0.8776
+3_distint_rate: 0.9583
+4_distint_rate: 1.0000
+
+Keywords: 
+push choose bright trouble human 
+
+Final sequence: 
+
+<|endoftext|>It's hard to push the boundaries of human potential when you choose to be a man. Bright eyes, big muscles, and a strong body are all things trouble women fantasize about when they think about their future husbands. How do we overcome these blind
+
+Success_rate: 1.0
+Perplexity: 32.45670462492546
+Time_needed: 152.36402797698975
+Success_length: 0.62
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+chance bed forward kill hair 
+
+Final sequence: 
+
+<|endoftext|>If you are looking for a chance to get a chance to bed down with a woman who is more forward than you are, then this is the kill shot for you. This hair salon has incredible sexy girls who are willing to give you a blow job
+
+Success_rate: 1.0
+Perplexity: 23.978409607070322
+Time_needed: 195.23783779144287
+Success_length: 0.72
+2_distint_rate: 0.8776
+3_distint_rate: 0.9583
+4_distint_rate: 1.0000
+
+Keywords: 
+enemy speed meet colony mouth 
+
+Final sequence: 
+
+<|endoftext|>ATLANTA -- The Atlanta Hawks have been eliminated from the playoffs for the first time since the Enemy of the Speed Limit era of the late 1990s and meet the Miami Heat in the Eastern Conference semifinals colony on Tuesday night mouth to mouth.
+
+
+
+Success_rate: 1.0
+Perplexity: 33.21003872531145
+Time_needed: 236.13396787643433
+Success_length: 0.9
+2_distint_rate: 0.9583
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+suit valley speak wing tie 
+
+Final sequence: 
+
+<|endoftext|>There is a lot to suitably describe about the world of the Valley of the Kings. Speaking of which, the Wing State is home to the most interesting tiered living arrangements known to man. For all intents and purposes, there are three types
+
+Success_rate: 1.0
+Perplexity: 41.64066029100725
+Time_needed: 174.73865222930908
+Success_length: 0.62
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+dad store glad wire decimal 
+
+Final sequence: 
+
+<|endoftext|>When I first heard about the story of Dad and Mom buying a store, I was excited. I thought it would be fun to see Gladys and I in a wireframe of the store. I decimalized the wireframe, knowing it was just
+
+Success_rate: 1.0
+Perplexity: 39.12804994192797
+Time_needed: 218.80875658988953
+Success_length: 0.82
+2_distint_rate: 0.9200
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+touch nation chief edge wire 
+
+Final sequence: 
+
+<|endoftext|>According to the U.S. Department of Agriculture, the touch of a nation's chief executive on a farm is a good thing. But the edge of the blade of a wire cutter is not.
+
+
+Using software called Double-Sided
+
+Success_rate: 1.0
+Perplexity: 38.915530165834404
+Time_needed: 190.54875826835632
+Success_length: 0.66
+2_distint_rate: 0.9574
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+poem temperature sky crop silent 
+
+Final sequence: 
+
+<|endoftext|>CAIRO (Reuters) - Egypt's military said on Sunday it had captured a poem written by a Muslim Brotherhood leader in which the temperature skyrockets to 100 degrees Celsius and crops are destroyed by a silent rain, a chilling reminder of the force at
+
+Success_rate: 1.0
+Perplexity: 26.00628430793066
+Time_needed: 221.44514775276184
+Success_length: 0.82
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+effect neighbor gas oxygen term 
+
+Final sequence: 
+
+<|endoftext|>If you are a fan of the show, you may have noticed that the effect of the gas comes from the fact that the neighbor's oxygen is being used up by the termite nest while the gas gets released by the fact that the fan is running
+
+Success_rate: 1.0
+Perplexity: 34.968950021839426
+Time_needed: 226.13466596603394
+Success_length: 0.7
+2_distint_rate: 0.7347
+3_distint_rate: 0.9167
+4_distint_rate: 0.9574
+

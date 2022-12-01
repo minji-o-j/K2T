@@ -2187,3 +2187,90 @@ Success_length: 0.0
 3_distint_rate: 0.2273
 4_distint_rate: 0.2414
 
+Keywords: 
+age sheet solution evening view 
+
+Final sequence: 
+
+<|endoftext|>By the age of 12, he was a member of the Communist Party of the Philippines.
+
+
+He was also a member of the Communist Youth League of the Philippines, a group that has been linked to the death of a young man who was killed in a shootout with police in the city of Davao.
+
+
+ADVERTISEMENT
+
+
+The Communist Youth League of the Philippines, or CYL, is a leftist youth group that has been linked
+
+Success_rate: 0.2
+Perplexity: 8.186169461645749
+Time_needed: 475.81050205230713
+Success_length: 0.0
+2_distint_rate: 0.6207
+3_distint_rate: 0.7326
+4_distint_rate: 0.8353
+
+Keywords: 
+enemy speed meet colony mouth 
+
+Final sequence: 
+
+<|endoftext|>The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The
+
+Success_rate: 0.2
+Perplexity: 2.8349637269741823
+Time_needed: 482.040367603302
+Success_length: 0.0
+2_distint_rate: 0.0114
+3_distint_rate: 0.0115
+4_distint_rate: 0.0116
+
+Keywords: 
+suit valley speak wing tie 
+
+Final sequence: 
+
+<|endoftext|>What do you think of the new Jets third jersey?
+
+
+Game 77: Jets vs. Canucks projected lines
+
+
+Jets: Ladd-Little-Wheeler
+
+
+Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd
+
+Success_rate: 0.0
+Perplexity: 7.6821808739284085
+Time_needed: 505.66446113586426
+Success_length: 0.0
+2_distint_rate: 0.3412
+3_distint_rate: 0.3929
+4_distint_rate: 0.4096
+

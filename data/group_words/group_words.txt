@@ -1,0 +1,10 @@
+eight, one, seven, five, ten
+brother, mother, sister, grandmother, brother, father
+summer, fall, winter, spring, autumn
+brother, boy, men, dad, male
+women, girl, sister, mother, female
+childhood, adolescent, infancy, adulthood, senescence
+cow, ox, pig, horse, sheep
+noon, midnight, afternoon, evening, morning
+valley, stream, basin, sea, lake
+mouth, nose, eyes, ear, hair

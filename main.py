@@ -14,7 +14,7 @@ import os
 import numpy as np
 import argparse
 
-
+device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
 porter = PorterStemmer()
 
 # check word embedding table
@@ -106,12 +106,13 @@ def get_logits(model, tokenizer, text, this_sequence, temperature):
     indexed_tokens = tokenizer.encode(text)
     indexed_this_seq = tokenizer.encode(this_sequence)
     tokens_tensor = torch.tensor([indexed_tokens])
-    tokens_tensor = tokens_tensor.to("cuda")
+    tokens_tensor = tokens_tensor.to(device)
 
     # Predict all tokens
     outputs = model(tokens_tensor)
 
     del tokens_tensor
+    
     torch.cuda.empty_cache()
 
     logits = outputs.logits
@@ -218,7 +219,7 @@ def sample_sentence(
     if keywords_enc and guide:
         sim = get_sim(keywords_enc, keywords_gpt, converter_table, guarantee, mode, only_max)
         weight = get_weight(weight, guarantee, T_time, time)
-        logits = logits + torch.tensor(sim * weight).cuda()  #
+        logits = logits + torch.tensor(sim * weight).to(device)  #
 
     ## Sample tokens
     logits = top_k_top_p_filtering(logits, top_k=top_k, top_p=top_p)  ###
@@ -782,7 +783,7 @@ if __name__ == "__main__":
     model = GPT2LMHeadModel.from_pretrained("gpt2-large")
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2-large")
     model.eval()
-    model.to("cuda")  #
+    model.to(device)  #
 
     # Get keywords and save path
     folder_name, file_name = get_folderfile_name(args.task, file_name)

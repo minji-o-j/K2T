@@ -4914,3 +4914,237 @@ Perplexity: 3.154025252024721<|endoftext|>After the fair is over, the new cornfi
 Success_rate: 0.8
 Perplexity: 3.154025252024721
 ###############################
+<|endoftext|>By the age of 12, he was a member of the Communist Party of the Philippines.
+
+
+He was also a member of the Communist Youth League of the Philippines, a group that has been linked to the death of a young man who was killed in a shootout with police in the city of Davao.
+
+
+ADVERTISEMENT
+
+
+The Communist Youth League of the Philippines, or CYL, is a leftist youth group that has been linked
+
+
+
+Success_rate: 0.2
+Perplexity: 8.186169461645749<|endoftext|>By the age of 12, he was a member of the Communist Party of the Philippines.
+
+
+He was also a member of the Communist Youth League of the Philippines, a group that has been linked to the death of a young man who was killed in a shootout with police in the city of Davao.
+
+
+ADVERTISEMENT
+
+
+The Communist Youth League of the Philippines, or CYL, is a leftist youth group that has been linked
+
+
+
+Success_rate: 0.2
+Perplexity: 8.186169461645749<|endoftext|>By the age of 12, he was a member of the Communist Party of the Philippines.
+
+
+He was also a member of the Communist Youth League of the Philippines, a group that has been linked to the death of a young man who was killed in a shootout with police in the city of Davao.
+
+
+ADVERTISEMENT
+
+
+The Communist Youth League of the Philippines, or CYL, is a leftist youth group that has been linked
+
+
+
+Success_rate: 0.2
+Perplexity: 8.186169461645749<|endoftext|>By the age of 12, he was a member of the Communist Party of the Philippines.
+
+
+He was also a member of the Communist Youth League of the Philippines, a group that has been linked to the death of a young man who was killed in a shootout with police in the city of Davao.
+
+
+ADVERTISEMENT
+
+
+The Communist Youth League of the Philippines, or CYL, is a leftist youth group that has been linked
+
+
+
+Success_rate: 0.2
+Perplexity: 8.186169461645749
+###############################
+<|endoftext|>The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The
+
+
+
+Success_rate: 0.2
+Perplexity: 2.8349637269741823<|endoftext|>The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The
+
+
+
+Success_rate: 0.2
+Perplexity: 2.8349637269741823<|endoftext|>The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The
+
+
+
+Success_rate: 0.2
+Perplexity: 2.8349637269741823<|endoftext|>The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The enemy of my enemy is my friend.
+
+
+The
+
+
+
+Success_rate: 0.2
+Perplexity: 2.8349637269741823
+###############################
+<|endoftext|>What do you think of the new Jets third jersey?
+
+
+Game 77: Jets vs. Canucks projected lines
+
+
+Jets: Ladd-Little-Wheeler
+
+
+Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd
+
+
+
+Success_rate: 0.0
+Perplexity: 7.6821808739284085<|endoftext|>What do you think of the new Jets third jersey?
+
+
+Game 77: Jets vs. Canucks projected lines
+
+
+Jets: Ladd-Little-Wheeler
+
+
+Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd
+
+
+
+Success_rate: 0.0
+Perplexity: 7.6821808739284085<|endoftext|>What do you think of the new Jets third jersey?
+
+
+Game 77: Jets vs. Canucks projected lines
+
+
+Jets: Ladd-Little-Wheeler
+
+
+Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd
+
+
+
+Success_rate: 0.0
+Perplexity: 7.6821808739284085<|endoftext|>What do you think of the new Jets third jersey?
+
+
+Game 77: Jets vs. Canucks projected lines
+
+
+Jets: Ladd-Little-Wheeler
+
+
+Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd-Little-Wheeler Ladd
+
+
+
+Success_rate: 0.0
+Perplexity: 7.6821808739284085
+###############################

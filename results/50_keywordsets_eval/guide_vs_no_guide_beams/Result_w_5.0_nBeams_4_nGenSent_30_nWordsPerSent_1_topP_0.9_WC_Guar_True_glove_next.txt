@@ -591,3 +591,225 @@ Success_length: 0.8
 3_distint_rate: 1.0000
 4_distint_rate: 1.0000
 
+Keywords: 
+tone speech represent century duck 
+
+Final sequence: 
+
+<|endoftext|>As the U.S. tone-deaf speechwriter for President Barack Obama and the representational century-old duck of the St. Louis Rams
+
+Success_rate: 1.0
+Perplexity: 41.84313422580341
+Time_needed: 127.95985913276672
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+particular summer insect rise nature 
+
+Final sequence: 
+
+<|endoftext|>The other day I was at a particular restaurant in the summer of 2015. I ordered insect- rise- and nature-scented dishes, which
+
+Success_rate: 1.0
+Perplexity: 66.41303102861175
+Time_needed: 125.03318524360657
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+anger yet experiment enter eight 
+
+Final sequence: 
+
+<|endoftext|>Not sure if this is the right anger management course yet, but I thought I would experiment with it. Enter the eight-week Anger Management Training course
+
+Success_rate: 1.0
+Perplexity: 45.50444705228399
+Time_needed: 121.81079888343811
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+favor crowd consonant vary melody 
+
+Final sequence: 
+
+<|endoftext|>Let's say you want to favor the crowd over the individual.
+
+
+First, vowel vowel vowel vowel vowel vowel vowel vowel vowel consonant vary melody
+
+Success_rate: 1.0
+Perplexity: 78.86276262471866
+Time_needed: 156.15139293670654
+Success_length: 1.0
+2_distint_rate: 0.7241
+3_distint_rate: 0.7500
+4_distint_rate: 0.7778
+
+Keywords: 
+enemy speed meet colony mouth 
+
+Final sequence: 
+
+<|endoftext|>Hard to believe, but the enemy of my enemy is my friend speed. Meet the new toy in Colony Wars, the mouth-filling Omnim
+
+Success_rate: 1.0
+Perplexity: 155.28599341950857
+Time_needed: 124.09802198410034
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+suit valley speak wing tie 
+
+Final sequence: 
+
+<|endoftext|>This is a suit of armor. It is made of a valley-like material that can speak to the winged dragon tie.
+
+
+What
+
+Success_rate: 1.0
+Perplexity: 51.29988903408244
+Time_needed: 130.75231552124023
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+dad store glad wire decimal 
+
+Final sequence: 
+
+<|endoftext|>I have a Dad who is a store manager at Gladstone, a large wire-framing company in decimal. If you were to ask him how
+
+Success_rate: 1.0
+Perplexity: 57.23073087821797
+Time_needed: 118.53780341148376
+Success_length: 0.7333333333333333
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+touch nation chief edge wire 
+
+Final sequence: 
+
+<|endoftext|>NEW DELHI: The Supreme Court on Tuesday touch down on the nation's chief justice and the edge of the wire in a case dealing with the sanct
+
+Success_rate: 1.0
+Perplexity: 38.63739465872655
+Time_needed: 122.23372602462769
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+poem temperature sky crop silent 
+
+Final sequence: 
+
+<|endoftext|>President Donald Trump is expected to sign an executive order on poem-writing this week, temperature-wise. Skyrocketing crop yields silent the cold.
+
+Success_rate: 1.0
+Perplexity: 75.74107197401857
+Time_needed: 146.2559905052185
+Success_length: 0.9
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+effect neighbor gas oxygen term 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not be in its final effect until the editor has reviewed it neighbor gasps oxygen as termites crawl into his
+
+Success_rate: 1.0
+Perplexity: 565.8134698579847
+Time_needed: 139.72409915924072
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+feed salt molecule lot represent 
+
+Final sequence: 
+
+<|endoftext|>In the wake of the feed-back from the Salt Lake City Police Department, the molecule that makes up lotion may represent a new means of solving
+
+Success_rate: 1.0
+Perplexity: 48.06470400773687
+Time_needed: 127.55052208900452
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+lady dear lot except region 
+
+Final sequence: 
+
+<|endoftext|>View Full Version : Why Lady Gaga is so popular Dear Lady Gaga I know you have lots of fans but except for the region where you live, you
+
+Success_rate: 1.0
+Perplexity: 52.55751543500365
+Time_needed: 130.29014253616333
+Success_length: 0.8333333333333334
+2_distint_rate: 0.9310
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+guide jump eight row settle 
+
+Final sequence: 
+
+<|endoftext|>The National Guide to the World's Best Jump Ropes
+
+
+The eight best jump rowers in the world settle in for the night at the
+
+Success_rate: 1.0
+Perplexity: 51.52162287443736
+Time_needed: 153.12582230567932
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+rise favor soft tie tie 
+
+Final sequence: 
+
+<|endoftext|>The Rise of the Internet of Things
+
+
+In favor of the soft- tie tie is the promise of simple, smart technology and use cases for
+
+Success_rate: 1.0
+Perplexity: 79.24511093216876
+Time_needed: 117.74311947822571
+Success_length: 0.6
+2_distint_rate: 0.9286
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
