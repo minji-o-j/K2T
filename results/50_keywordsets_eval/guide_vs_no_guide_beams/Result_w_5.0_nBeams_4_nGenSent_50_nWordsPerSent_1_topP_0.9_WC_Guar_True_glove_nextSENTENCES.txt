@@ -908,3 +908,68 @@ Perplexity: 30.70419763154327<|endoftext|>If you are a fan of the show, you may 
 Success_rate: 1.0
 Perplexity: 37.10971246863018
 ###############################
+<|endoftext|>I can't believe I'm saying this, but I have to feed my dog salt to get him to eat. I can't even molecule myself to do it because I have lot of salt in my system and represent a threat to my dog's health
+
+
+
+Success_rate: 1.0
+Perplexity: 24.585346218323146<|endoftext|>I can't believe I'm saying this, but I have to feed my dog salt to get him to eat. I can't even molecule myself to do it because I have lot of salt in my system and represent a major food source to my dog
+
+
+
+Success_rate: 1.0
+Perplexity: 28.136572052832648<|endoftext|>I can't believe I'm saying this, but I have to feed my dog salt to get him to eat. I can't even molecule myself to do it because I have lot of salt in my system and represent so much of the bacteria in my
+
+
+
+Success_rate: 1.0
+Perplexity: 26.907309435445015<|endoftext|>I can't believe I'm saying this, but I have to feed my dog salt to get him to eat. I can't even molecule myself to do it because I have lot of salt in my system and represent the most salt I have seen in
+
+
+
+Success_rate: 1.0
+Perplexity: 30.503980097663085
+###############################
+<|endoftext|>The following is a list of items that make good gifts for Lady Luck, who likes Ornate, white items and dislikes Dear Friends.
+
+
+Best Gifts for LOTR Character Luck: Exceptional Region
+
+
+The following items have Luck
+
+
+
+Success_rate: 1.0
+Perplexity: 124.55864503738132<|endoftext|>The following is a list of items that make good gifts for Lady Luck, who likes Ornate, white items and dislikes Dear Friends.
+
+
+Best Gifts for LOTR Character Luck: Exceptional items for region
+
+
+Good Gifts for
+
+
+
+Success_rate: 1.0
+Perplexity: 119.76683124788207<|endoftext|>The following is a list of items that make good gifts for Lady Luck, who likes Ornate, white items and dislikes Dear Friends.
+
+
+Best Gifts for LOTR Character Luck: Exceptional items for region of character
+
+
+Dwar
+
+
+
+Success_rate: 1.0
+Perplexity: 142.71426961053652<|endoftext|>The following is a list of items that make good gifts for Lady Luck, who likes Ornate, white items and dislikes Dear Friends.
+
+
+Best Gifts for LOTR Character Luck: Exceptional items for region (Icon Name) +1
+
+
+
+Success_rate: 1.0
+Perplexity: 143.02253494824254
+###############################

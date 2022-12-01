@@ -527,3 +527,39 @@ Success_length: 0.7
 3_distint_rate: 0.9167
 4_distint_rate: 0.9574
 
+Keywords: 
+feed salt molecule lot represent 
+
+Final sequence: 
+
+<|endoftext|>I can't believe I'm saying this, but I have to feed my dog salt to get him to eat. I can't even molecule myself to do it because I have lot of salt in my system and represent a threat to my dog's health
+
+Success_rate: 1.0
+Perplexity: 24.585346218323146
+Time_needed: 298.4189553260803
+Success_length: 0.86
+2_distint_rate: 0.8776
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+lady dear lot except region 
+
+Final sequence: 
+
+<|endoftext|>The following is a list of items that make good gifts for Lady Luck, who likes Ornate, white items and dislikes Dear Friends.
+
+
+Best Gifts for LOTR Character Luck: Exceptional Region
+
+
+The following items have Luck
+
+Success_rate: 1.0
+Perplexity: 124.55864503738132
+Time_needed: 318.42250061035156
+Success_length: 0.84
+2_distint_rate: 0.9149
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+

@@ -813,3 +813,72 @@ Success_length: 0.6
 3_distint_rate: 1.0000
 4_distint_rate: 1.0000
 
+Keywords: 
+excite quite capital trip lady 
+
+Final sequence: 
+
+<|endoftext|>Share
+
+
+An exciting opportunity has arisen for a quite a few of us in Capital Region. A trip to the Lady of the Lake, Niagara
+
+Success_rate: 1.0
+Perplexity: 56.34089836279576
+Time_needed: 177.71885776519775
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+oxygen anger art spoke race 
+
+Final sequence: 
+
+<|endoftext|>AP
+
+
+When oxygen-deprived anger was artfully expressed in the first spoke of the race with fellow NASCAR driver Kasey Kahne
+
+Success_rate: 1.0
+Perplexity: 111.6543399278835
+Time_needed: 148.86488723754883
+Success_length: 0.6666666666666666
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+joy require chicken else cow 
+
+Final sequence: 
+
+<|endoftext|>Welcome to The Joy of Cooking
+
+
+The Joy of Cooking requires you to cook chicken, fish or anything else you can cow. The Joy of
+
+Success_rate: 1.0
+Perplexity: 23.55487374732332
+Time_needed: 179.84530091285706
+Success_length: 0.8666666666666667
+2_distint_rate: 0.7857
+3_distint_rate: 0.9259
+4_distint_rate: 1.0000
+
+Keywords: 
+search major string cost village 
+
+Final sequence: 
+
+<|endoftext|>The search for the next Major League Soccer expansion team is well underway. Stringer and Costanzo are the village presidents, and together they have raised
+
+Success_rate: 1.0
+Perplexity: 48.458371906598884
+Time_needed: 161.04561948776245
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+

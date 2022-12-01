@@ -16,3 +16,21 @@ Success_length: 0.5666666666666667
 3_distint_rate: 0.9770
 4_distint_rate: 1.0000
 
+Keywords: 
+brother mother sister grandmother brother father 
+
+Final sequence: 
+
+<|endoftext|>About
+
+
+Father's Day is a day to celebrate fatherhood and fatherhood in general. It is a day to celebrate fatherhood and fatherhood brotherhood. Mother's Day is a day to celebrate motherhood and motherhood sisterhood. Mother's Day is a day to celebrate motherhood mother grandmotherhood and grandmotherhood brotherhood. It is a day to celebrate motherhood and motherhood sisterhood. Mother's Day is a day to
+
+Success_rate: 1.0
+Perplexity: 7.118115598807564
+Time_needed: 472.496782541275
+Success_length: 0.7444444444444445
+2_distint_rate: 0.1250
+3_distint_rate: 0.2069
+4_distint_rate: 0.2674
+

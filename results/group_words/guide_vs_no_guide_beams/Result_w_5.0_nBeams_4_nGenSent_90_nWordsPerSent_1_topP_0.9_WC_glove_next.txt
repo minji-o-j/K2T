@@ -1,0 +1,21 @@
+Keywords: 
+eight one seven five ten 
+
+Final sequence: 
+
+<|endoftext|>The first five years of the seven-year-old program were marked by a series of scandals, one of which led to the resignation of ten of the program's eight directors and the replacement of two of its senior advisors.
+
+
+Since, however, ACT's average scores have moved up by 10 points every year, with average scores in 2013 rising to 1150.
+
+
+"In late 2013, the ACT Board of Governors [BOG
+
+Success_rate: 1.0
+Perplexity: 21.698566297354997
+Time_needed: 548.0196924209595
+Success_length: 0.37777777777777777
+2_distint_rate: 0.9091
+3_distint_rate: 0.9770
+4_distint_rate: 1.0000
+

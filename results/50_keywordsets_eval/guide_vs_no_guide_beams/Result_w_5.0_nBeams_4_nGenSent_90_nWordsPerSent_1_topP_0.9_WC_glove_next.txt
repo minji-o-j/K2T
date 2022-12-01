@@ -2274,3 +2274,27 @@ Success_length: 0.0
 3_distint_rate: 0.3929
 4_distint_rate: 0.4096
 
+Keywords: 
+dad store glad wire decimal 
+
+Final sequence: 
+
+<|endoftext|>Sorry, this product is no longer available! Similar Items 1 /4
+
+
+Frequently Bought Together Total Cost:
+
+
+Customers Who Bought This Item Also Bought
+
+
+DHgate.com is an online wholesaler with satisfied quality and best service. If you are looking for the perfect green tea bag for your dad, then the green tea bag for your dad is exactly what you want. Well-made and durable, this green
+
+Success_rate: 0.2
+Perplexity: 84.8020752642011
+Time_needed: 592.3938550949097
+Success_length: 0.0
+2_distint_rate: 0.8256
+3_distint_rate: 0.9059
+4_distint_rate: 0.9286
+

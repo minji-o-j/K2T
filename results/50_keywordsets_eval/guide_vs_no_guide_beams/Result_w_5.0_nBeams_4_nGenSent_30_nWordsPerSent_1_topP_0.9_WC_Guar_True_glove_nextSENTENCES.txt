@@ -1253,3 +1253,127 @@ In favor of the soft- tiered tie, coupled with bulky wallets for my clothing, I 
 Success_rate: 1.0
 Perplexity: 127.38861250433689
 ###############################
+<|endoftext|>Share
+
+
+An exciting opportunity has arisen for a quite a few of us in Capital Region. A trip to the Lady of the Lake, Niagara
+
+
+
+Success_rate: 1.0
+Perplexity: 56.34089836279576<|endoftext|>Share
+
+
+An exciting opportunity has arisen for a quite a few of us in Capital Region. A trip to the Lady of Fatima – Mass
+
+
+
+Success_rate: 1.0
+Perplexity: 76.11198726722282<|endoftext|>Share
+
+
+An exciting opportunity has arisen for a quite a few of us in Capital Region. A trip to the Lady Buckland Preservation Society building
+
+
+
+Success_rate: 1.0
+Perplexity: 101.06888237097094<|endoftext|>Share
+
+
+An exciting opportunity has arisen for a quite a few of us in Capital Region. A trip to the Lady Cow and Glazed B
+
+
+
+Success_rate: 1.0
+Perplexity: 95.57244518104888
+###############################
+<|endoftext|>AP
+
+
+When oxygen-deprived anger was artfully expressed in the first spoke of the race with fellow NASCAR driver Kasey Kahne
+
+
+
+Success_rate: 1.0
+Perplexity: 111.6543399278835<|endoftext|>AP
+
+
+When oxygen-deprived anger was artfully expressed in the words spoke by race-hopping alt-rock band Mumford &
+
+
+
+Success_rate: 1.0
+Perplexity: 182.13126250736477<|endoftext|>AP
+
+
+When oxygen-deprived anger was artfully expressed in the first spoke of the race on Thursday, there were other spectators who had
+
+
+
+Success_rate: 1.0
+Perplexity: 124.06925055025637<|endoftext|>AP
+
+
+When oxygen-deprived anger was artfully expressed in the first spoke of the race, black voters and older voters particularly loved it
+
+
+
+Success_rate: 1.0
+Perplexity: 162.4709025093375
+###############################
+<|endoftext|>Welcome to The Joy of Cooking
+
+
+The Joy of Cooking requires you to cook chicken, fish or anything else you can cow. The Joy of
+
+
+
+Success_rate: 1.0
+Perplexity: 23.55487374732332<|endoftext|>Welcome to The Joy of Cooking
+
+
+The Joy of Cooking requires you to cook chicken, fish or anything else you can cow-mail your way
+
+
+
+Success_rate: 1.0
+Perplexity: 38.07957318197493<|endoftext|>Welcome to The Joy of Cooking
+
+
+The Joy of Cooking requires you to cook chicken, fish or anything else you can cow manure and potatoes to
+
+
+
+Success_rate: 1.0
+Perplexity: 37.1681263081364<|endoftext|>Welcome to The Joy of Cooking
+
+
+The Joy of Cooking requires you to cook chicken, fish or anything else you can cowaste for breakfast,
+
+
+
+Success_rate: 1.0
+Perplexity: 31.564529204037516
+###############################
+<|endoftext|>The search for the next Major League Soccer expansion team is well underway. Stringer and Costanzo are the village presidents, and together they have raised
+
+
+
+Success_rate: 1.0
+Perplexity: 48.458371906598884<|endoftext|>The search for the next Major League Soccer expansion team is well underway. Stringer and Costanzo are the village captains. They've talked to every
+
+
+
+Success_rate: 1.0
+Perplexity: 51.219375464291225<|endoftext|>The search for the next Major League Soccer expansion team is well underway. Stringer and Costanzo are the village councils' proposed representatives at the next
+
+
+
+Success_rate: 1.0
+Perplexity: 74.56453992949665<|endoftext|>The search for the next Major League Soccer expansion team is well underway. Stringer and Costanzo are the village officials. They have been the other
+
+
+
+Success_rate: 1.0
+Perplexity: 48.52229264489758
+###############################
