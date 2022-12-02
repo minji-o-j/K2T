@@ -2298,3 +2298,1023 @@ Success_length: 0.0
 3_distint_rate: 0.9059
 4_distint_rate: 0.9286
 
+Keywords: 
+touch nation chief edge wire 
+
+Final sequence: 
+
+<|endoftext|>Please enable Javascript to watch this video
+
+
+ST. LOUIS, MO (KTVI) - A St. Louis man is accused of killing his wife and then himself.
+
+
+Police say the couple was arguing over money and the man shot his wife in the head.
+
+
+The man then shot himself in the head.
+
+
+The couple's two children were in the home at the time of the shooting.
+
+
+
+
+Success_rate: 0.0
+Perplexity: 6.378409324469036
+Time_needed: 669.5207381248474
+Success_length: 0.0
+2_distint_rate: 0.7701
+3_distint_rate: 0.8605
+4_distint_rate: 0.9059
+
+Keywords: 
+poem temperature sky crop silent 
+
+Final sequence: 
+
+<|endoftext|>Trivia
+
+
+The poem in the film is written by the author of the novel, the poem is the first poem in the book, and the poem is the first poem in the film. The poem is also the first poem in the film to be written by a woman. See more »
+
+
+Goofs When the film is shown in the theater, the audience is shown a scene of the temperature of the sky. The temperature is
+
+Success_rate: 0.6
+Perplexity: 13.70759041361554
+Time_needed: 793.1833651065826
+Success_length: 0.0
+2_distint_rate: 0.5287
+3_distint_rate: 0.7558
+4_distint_rate: 0.8235
+
+Keywords: 
+effect neighbor gas oxygen term 
+
+Final sequence: 
+
+<|endoftext|>So I just got back from a trip to the Middle East. It was a great trip, and I was able to meet some amazing people. One of the most amazing people I met was a woman named Nour. She's a Syrian refugee who has been living in the United States for the past 10 years. She is a mother of two, and she is a strong, independent woman. She is a wonderful person. She is a very effective
+
+Success_rate: 0.2
+Perplexity: 7.801823814120619
+Time_needed: 768.2622148990631
+Success_length: 0.0
+2_distint_rate: 0.8111
+3_distint_rate: 0.9326
+4_distint_rate: 0.9659
+
+Keywords: 
+feed salt molecule lot represent 
+
+Final sequence: 
+
+<|endoftext|>It's a lot easier to get a job if you have a college degree.
+
+
+That's the conclusion of a new study from the National Bureau of Economic Research, which found that people with a college degree are more likely to be hired than those without a degree.
+
+
+The study looked at data from the Bureau of Labor Statistics, which tracks the number of jobs held by people with a bachelor's degree or higher.
+
+
+The study
+
+Success_rate: 0.2
+Perplexity: 6.308100146821891
+Time_needed: 774.8338947296143
+Success_length: 0.0
+2_distint_rate: 0.7045
+3_distint_rate: 0.8506
+4_distint_rate: 0.9302
+
+Keywords: 
+lady dear lot except region 
+
+Final sequence: 
+
+<|endoftext|>Image copyright Getty Images Image caption The first lady has faced criticism for her husband's policies
+
+
+Dear President Trump,
+
+
+I am writing to express my deep concern about the recent attacks on the First Lady and her family. I am writing to you in the hope that you will take action to protect the First Lady and her family from further attacks.
+
+
+I am writing to you because I believe that the attacks on the First Lady and
+
+Success_rate: 0.4
+Perplexity: 8.971354985959435
+Time_needed: 777.1658673286438
+Success_length: 0.0
+2_distint_rate: 0.6437
+3_distint_rate: 0.7209
+4_distint_rate: 0.7882
+
+Keywords: 
+guide jump eight row settle 
+
+Final sequence: 
+
+<|endoftext|>One of the most common questions I get from people is how to guide them through the process of getting a job in the tech industry. I'm going to jump right in and give you a few tips that I've learned over the years that will help you get a job in the tech industry.
+
+
+1. Get a job in the tech industry.
+
+
+The first thing you need to do is get a job in the tech industry
+
+Success_rate: 0.4
+Perplexity: 5.746507376631736
+Time_needed: 740.8110613822937
+Success_length: 0.0
+2_distint_rate: 0.6667
+3_distint_rate: 0.7093
+4_distint_rate: 0.7529
+
+Keywords: 
+rise favor soft tie tie 
+
+Final sequence: 
+
+<|endoftext|>It is a fact that rising energy prices favor the rich and powerful. But it is also a fact that rising energy prices favor the poor and powerless.
+
+
+In the United States, the top 1 percent of households own more than half of all the wealth in the country. The top 1 percent of households own more than half of all the wealth in the country.
+
+
+In the United States, the top 1 percent of households own more
+
+Success_rate: 0.4
+Perplexity: 5.137571959468262
+Time_needed: 711.7917416095734
+Success_length: 0.0
+2_distint_rate: 0.2069
+3_distint_rate: 0.2558
+4_distint_rate: 0.3059
+
+Keywords: 
+excite quite capital trip lady 
+
+Final sequence: 
+
+<|endoftext|>"We're not going to be able to afford to keep all of these people in the country," he said. "We're going to have to let them go."
+
+
+"We're going to have to let them go," he said.
+
+
+"We're going to have to let them go," he said.
+
+
+"We're going to have to let them go," he said.
+
+
+"We're going
+
+Success_rate: 0.0
+Perplexity: 4.053206746378711
+Time_needed: 703.8009886741638
+Success_length: 0.0
+2_distint_rate: 0.2299
+3_distint_rate: 0.2791
+4_distint_rate: 0.3176
+
+Keywords: 
+oxygen anger art spoke race 
+
+Final sequence: 
+
+<|endoftext|>MOSCOW (Reuters) - Russia's parliament voted on Wednesday to ban the sale of U.S. and European-made weapons to Ukraine, a move that could further strain ties between Moscow and the West.
+
+
+A member of the Ukrainian National Guard stands guard near a Ukrainian military base in the village of Krasnodon, in the Donetsk region, Ukraine, May 17, 2015. REUTERS/Gleb Garanich
+
+Success_rate: 0.0
+Perplexity: 7.237899330245883
+Time_needed: 701.730039358139
+Success_length: 0.0
+2_distint_rate: 0.9545
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+joy require chicken else cow 
+
+Final sequence: 
+
+<|endoftext|>In the last few years, we've seen a lot of talk about the need for more diversity in the tech industry. In fact, we've seen a lot of talk about the need for more diversity in the tech industry. In fact, we've seen a lot of talk about the need for more diversity in the tech industry.
+
+
+The problem is that the tech industry is still dominated by white men.
+
+
+The problem is that the
+
+Success_rate: 0.0
+Perplexity: 3.416819592040082
+Time_needed: 674.0142278671265
+Success_length: 0.0
+2_distint_rate: 0.1591
+3_distint_rate: 0.1954
+4_distint_rate: 0.2326
+
+Keywords: 
+search major string cost village 
+
+Final sequence: 
+
+<|endoftext|>About the Search for Major Events
+
+
+The search for major events is a long-term project that began in the early 1990s. The goal is to identify the most significant events in the history of the United States. Major events are those that have a significant impact on the nation's history, culture, and economy. Major events are also those that have a significant impact on the history of the United States. The major events project is led by
+
+Success_rate: 0.4
+Perplexity: 7.366222975154482
+Time_needed: 546.7132222652435
+Success_length: 0.0
+2_distint_rate: 0.5682
+3_distint_rate: 0.7011
+4_distint_rate: 0.7674
+
+Keywords: 
+enemy dad thick crowd length 
+
+Final sequence: 
+
+<|endoftext|>US President Donald Trump's administration is considering a plan to cut the number of US troops in Afghanistan by at least half, according to a report in the New York Times.
+
+
+The plan would see the US pull out of the country's longest war by the end of the year, according to the report.
+
+
+The plan would see the US pull out of the country's longest war by the end of the year, according to the report
+
+Success_rate: 0.0
+Perplexity: 4.343742962305502
+Time_needed: 549.4639456272125
+Success_length: 0.0
+2_distint_rate: 0.3933
+3_distint_rate: 0.4205
+4_distint_rate: 0.4483
+
+Keywords: 
+engine experiment caught chair visit 
+
+Final sequence: 
+
+<|endoftext|>I don't know about you, but I'm a little sad that the show is ending. I mean, I'm sad that it's ending, but I'm also sad that it's ending in a way that makes me feel like it's not ending at all. It's not ending in a way that makes me feel like it's not ending at all. It's ending in a way that makes me feel like it's not ending at all
+
+Success_rate: 0.0
+Perplexity: 3.8998959524637122
+Time_needed: 557.8992209434509
+Success_length: 0.0
+2_distint_rate: 0.2472
+3_distint_rate: 0.3409
+4_distint_rate: 0.4253
+
+Keywords: 
+represent substance student tone million 
+
+Final sequence: 
+
+<|endoftext|>I'm not going to lie to you. I'm not a fan of the way the NFL treats its players. I represent a lot of people who are fans of the NFL, and I don't think it's fair to them to have to go through what I went through.
+
+
+I had a substance abuse problem for a long time. I was a student at the University of Miami, and I was trying to get my degree. I
+
+Success_rate: 0.6
+Perplexity: 8.085940015321604
+Time_needed: 540.8837218284607
+Success_length: 0.0
+2_distint_rate: 0.8182
+3_distint_rate: 0.9770
+4_distint_rate: 1.0000
+
+Keywords: 
+ring imagine human fruit shout 
+
+Final sequence: 
+
+<|endoftext|>The man accused of killing a police officer in a carjacking in the Bronx has been charged with murder.
+
+
+The New York Daily News reports that 25-year-old Darryl Williams was charged with second-degree murder in the death of Officer Rafael Ramos, who was shot and killed on Friday.
+
+
+Ramos was in uniform when he was shot and killed by Williams, who was driving a stolen car.
+
+
+Ram
+
+Success_rate: 0.0
+Perplexity: 8.001795062135564
+Time_needed: 541.3301050662994
+Success_length: 0.0
+2_distint_rate: 0.7500
+3_distint_rate: 0.8736
+4_distint_rate: 0.9535
+
+Keywords: 
+matter dad flat control women 
+
+Final sequence: 
+
+<|endoftext|>If you are looking for a way to get your hands on the game before it's released, you can pre-order the game on Steam for $19.99.
+
+
+The game is currently available for pre-order on Steam for $19.99.
+
+
+The game is currently available for pre-order on Steam for $19.99.
+
+
+The game is currently available for pre-order on Steam for $19
+
+Success_rate: 0.0
+Perplexity: 3.2426959664212394
+Time_needed: 522.9980130195618
+Success_length: 0.0
+2_distint_rate: 0.2529
+3_distint_rate: 0.2907
+4_distint_rate: 0.3059
+
+Keywords: 
+stone anger include milk scale 
+
+Final sequence: 
+
+<|endoftext|>I'm a huge fan of the old-school games like Stone Age and Age of Empires. I don't think I've ever played a game that was as good as those games, and I've been a huge fan of the new-school games like Civilization and SimCity. I'm also a huge fan of the indie games, including the indie games that have been making waves in the last few years.
+
+
+I'm also a huge
+
+Success_rate: 0.4
+Perplexity: 7.752527601662994
+Time_needed: 549.725462436676
+Success_length: 0.0
+2_distint_rate: 0.6136
+3_distint_rate: 0.8046
+4_distint_rate: 0.9070
+
+Keywords: 
+slip visit material reply cow 
+
+Final sequence: 
+
+<|endoftext|>Late last year, I wrote a post about the rise of the cult of the quarterback in the NFL. I argued that the rise of the quarterback is a symptom of the decline of the running game. I argued that the decline of the running game is a symptom of the decline of the passing game. I argued that the decline of the passing game is a symptom of the decline of the running game.
+
+
+I argued that the decline of the
+
+Success_rate: 0.0
+Perplexity: 4.19300307285606
+Time_needed: 562.0290508270264
+Success_length: 0.0
+2_distint_rate: 0.2386
+3_distint_rate: 0.3333
+4_distint_rate: 0.4535
+
+Keywords: 
+safe drop wife eight matter 
+
+Final sequence: 
+
+<|endoftext|>Welcome to the official website for the Game of Thrones book series!
+
+
+This site is for fans of the books and the TV series. It is not for fans of the books and the TV series that have not read the books. If you are a fan of the books and the TV series, you are welcome to visit this site.
+
+
+If you are a fan of the books and the TV series that have not read the books,
+
+Success_rate: 0.0
+Perplexity: 4.946717602527834
+Time_needed: 487.73840713500977
+Success_length: 0.0
+2_distint_rate: 0.4205
+3_distint_rate: 0.4943
+4_distint_rate: 0.5349
+
+Keywords: 
+ball hurry lost smell plural 
+
+Final sequence: 
+
+<|endoftext|>The first thing you notice about the ball is that it's a lot bigger than you expected. It's a lot heavier than you'd expect, too. It's about the size of a softball, and it's about the size of a softball.
+
+
+It's a lot heavier than you'd expect, too.
+
+
+It's a lot heavier than you'd expect, too.
+
+
+It's a lot heavier than
+
+Success_rate: 0.2
+Perplexity: 5.603749896192995
+Time_needed: 422.4364056587219
+Success_length: 0.0
+2_distint_rate: 0.2069
+3_distint_rate: 0.3256
+4_distint_rate: 0.4000
+
+Keywords: 
+push choose bright trouble human 
+
+Final sequence: 
+
+<|endoftext|>Image copyright AFP Image caption The UN human rights chief has called for an investigation into the incident
+
+
+A UN human rights official has called for an investigation into the killing of a man in a US drone strike in Yemen.
+
+
+The US said it had carried out the strike on a car in the village of al-Majalah in the south of the country.
+
+
+The official, Navi Pillay, said the
+
+Success_rate: 0.2
+Perplexity: 7.398353086675123
+Time_needed: 377.8626012802124
+Success_length: 0.0
+2_distint_rate: 0.7093
+3_distint_rate: 0.8118
+4_distint_rate: 0.8810
+
+Keywords: 
+chance bed forward kill hair 
+
+Final sequence: 
+
+<|endoftext|>Get daily updates directly to your inbox Subscribe Thank you for subscribing See our privacy notice Could not subscribe, try again later Invalid Email
+
+
+A man who claimed he was the victim of a hate crime after being spat at by a group of youths has been found guilty of perverting the course of justice.
+
+
+A jury at Manchester Crown Court heard that the man, who cannot be named for legal reasons, was attacked by a group of youths
+
+Success_rate: 0.0
+Perplexity: 5.912233466011394
+Time_needed: 367.11081624031067
+Success_length: 0.0
+2_distint_rate: 0.8621
+3_distint_rate: 0.9070
+4_distint_rate: 0.9529
+
+Keywords: 
+blow mass brother market roll 
+
+Final sequence: 
+
+<|endoftext|>This is a guest post by my friend and fellow writer, Sam. Sam is a writer and marketing professional who has been a part of the WordPress community for over a decade. He is also the author of the new book, The Definitive Guide to WordPress Marketing.
+
+
+If you're a WordPress blogger, you've probably heard the term "content marketing" thrown around a lot.
+
+
+But what exactly is content marketing?
+
+
+Content
+
+Success_rate: 0.2
+Perplexity: 11.599379162813193
+Time_needed: 376.3865382671356
+Success_length: 0.0
+2_distint_rate: 0.8966
+3_distint_rate: 0.9767
+4_distint_rate: 1.0000
+
+Keywords: 
+block quite dead subtract band 
+
+Final sequence: 
+
+<|endoftext|>Have you ever wanted to be a part of the world's most exciting sports team?
+
+
+If so, you've come to the right place.
+
+
+If you want to be a part of the world's most exciting sports team, you've come to the right place.
+
+
+If you want to be a part of the world's most exciting sports team, you've come to the right place.
+
+
+If you want to be
+
+Success_rate: 0.0
+Perplexity: 3.2097073866874726
+Time_needed: 387.037899017334
+Success_length: 0.0
+2_distint_rate: 0.1023
+3_distint_rate: 0.1264
+4_distint_rate: 0.1512
+
+Keywords: 
+difficult shine practice stream supply 
+
+Final sequence: 
+
+<|endoftext|>What is the difference between a product and a service?
+
+
+A product is a product that is made by a company and sold to the public. A service is a service that is provided by a company to the public.
+
+
+What is a product that is made by a company and sold to the public?
+
+
+A product is a product that is made by a company and sold to the public. A service is a service that is
+
+Success_rate: 0.0
+Perplexity: 3.9258688334741016
+Time_needed: 398.9770290851593
+Success_length: 0.0
+2_distint_rate: 0.1477
+3_distint_rate: 0.2529
+4_distint_rate: 0.3023
+
+Keywords: 
+corn magnet team symbol egg 
+
+Final sequence: 
+
+<|endoftext|>Your browser does not support HTML5 video tag.Click here to view original GIF
+
+
+It's been a while since we've seen a fully-realized cornucopia of special effects in a video game, but it looks like the team at Insomniac Games is about to change that.
+
+
+In a recent interview with IGN, Insomniac Games creative director Ted Price revealed that the team is working on a new
+
+Success_rate: 0.4
+Perplexity: 7.796635861496027
+Time_needed: 338.0928587913513
+Success_length: 0.0
+2_distint_rate: 0.8621
+3_distint_rate: 0.9302
+4_distint_rate: 0.9529
+
+Keywords: 
+experiment cost third wrong melody 
+
+Final sequence: 
+
+<|endoftext|>He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He was a good man.
+
+
+He
+
+Success_rate: 0.0
+Perplexity: 3.50803573795435
+Time_needed: 294.243066072464
+Success_length: 0.0
+2_distint_rate: 0.0114
+3_distint_rate: 0.0115
+4_distint_rate: 0.0116
+
+Keywords: 
+deal heavy cell spend shall 
+
+Final sequence: 
+
+<|endoftext|>http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRealDeal
+
+
+The real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal, the real deal,
+
+Success_rate: 0.2
+Perplexity: 2.000953547738943
+Time_needed: 320.89892864227295
+Success_length: 0.0
+2_distint_rate: 0.2273
+3_distint_rate: 0.2529
+4_distint_rate: 0.2558
+
+Keywords: 
+join circle describe led save 
+
+Final sequence: 
+
+<|endoftext|>In response to the news that the United States will join the fight against the Islamic State, the White House has released a statement from President Obama in which he says that the U.S. will "work with our allies to degrade and ultimately destroy" the terrorist group.
+
+
+"We will not hesitate to use the full range of our capabilities to degrade and ultimately destroy ISIL," the statement reads. "We will not hesitate to use our military
+
+Success_rate: 0.2
+Perplexity: 6.756908719769688
+Time_needed: 303.78890562057495
+Success_length: 0.0
+2_distint_rate: 0.7727
+3_distint_rate: 0.8391
+4_distint_rate: 0.8837
+
+Keywords: 
+stream create sugar parent crop 
+
+Final sequence: 
+
+<|endoftext|>Welcome to the official website of the American Institute of Architects (AIA). The AIA is a non-profit organization dedicated to creating a better world through the application of science and technology to the design of buildings and other structures.
+
+
+The AIA is a member of the American Institute of Architects (AIA) and the American Institute of Architects (AIA) is a member of the American Institute of Architects (AIA) and the
+
+Success_rate: 0.2
+Perplexity: 4.685659475874633
+Time_needed: 301.44119691848755
+Success_length: 0.0
+2_distint_rate: 0.4432
+3_distint_rate: 0.5172
+4_distint_rate: 0.5814
+
+Keywords: 
+desert wild crop bear enemy 
+
+Final sequence: 
+
+<|endoftext|>UNITED NATIONS (Reuters) - The United States and Russia agreed on Friday to work together to find a solution to the Syrian conflict, but the U.S. envoy to the United Nations said the U.S. position was not changing.
+
+
+U.S. Ambassador to the United Nations Samantha Power speaks during a news conference at the United Nations in New York, September 29, 2013. REUTERS/Lucas Jackson
+
+
+
+
+Success_rate: 0.0
+Perplexity: 4.6804637092145525
+Time_needed: 300.26121258735657
+Success_length: 0.0
+2_distint_rate: 0.7586
+3_distint_rate: 0.8605
+4_distint_rate: 0.9294
+
+Keywords: 
+paragraph anger quite general led 
+
+Final sequence: 
+
+<|endoftext|>If you're a fan of the now-defunct comic book publisher DC Comics, you may have noticed that the company has been making a lot of changes to its line of comics.
+
+
+The most notable of these changes is the removal of Superman from the line. The character was first introduced in 1938, and was one of the most popular characters in the DC Universe. However, the character was not well-liked by many fans,
+
+Success_rate: 0.0
+Perplexity: 8.10511579087629
+Time_needed: 304.3424725532532
+Success_length: 0.0
+2_distint_rate: 0.9545
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+born ride collect milk rose 
+
+Final sequence: 
+
+<|endoftext|>The video will start in 8 Cancel
+
+
+Get daily news updates directly to your inbox Subscribe Thank you for subscribing We have more newsletters Show me See our privacy notice Could not subscribe, try again later Invalid Email
+
+
+A man has been arrested after he allegedly tried to rape a woman in a park.
+
+
+The woman was walking in the park in the city of Tbilisi, Georgia, when she was approached by the man.
+
+Success_rate: 0.0
+Perplexity: 5.4918094926499
+Time_needed: 319.1574318408966
+Success_length: 0.0
+2_distint_rate: 0.9419
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+cost thank summer control nose 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not be in its final form.
+
+
+AMY GOODMAN: We turn now to the case of Bradley Manning, the former U.S. Army intelligence analyst who is accused of leaking hundreds of thousands of classified documents to WikiLeaks. He faces up to 35 years in prison if convicted of the most serious charge of aiding the enemy. Manning is accused of passing the documents to WikiLeaks, which published them in 2010.
+
+Success_rate: 0.0
+Perplexity: 4.932393468684172
+Time_needed: 317.5624942779541
+Success_length: 0.0
+2_distint_rate: 0.9091
+3_distint_rate: 0.9540
+4_distint_rate: 1.0000
+
+Keywords: 
+increase village gather summer fit 
+
+Final sequence: 
+
+<|endoftext|>Some of the most popular and well-known figures in the world of film and television are known for their love of music. Whether it's the Beatles, the Rolling Stones, the Beach Boys, or the Rolling Stones, they all have a strong connection to music. However, not all of them are fans of the same music. Here are some of the most popular and well-known figures in the world of film and television who are not fans of
+
+Success_rate: 0.0
+Perplexity: 5.587591811215625
+Time_needed: 310.4129412174225
+Success_length: 0.0
+2_distint_rate: 0.5281
+3_distint_rate: 0.6364
+4_distint_rate: 0.6782
+
+Keywords: 
+tone speech represent century duck 
+
+Final sequence: 
+
+<|endoftext|>If you're looking for a quick and easy way to get started with the Arduino, the Arduino Uno is a great choice. It's a great little board that can be used for everything from simple projects to more complex ones.
+
+
+The Arduino Uno is a microcontroller that's designed to be easy to use. It has a very small footprint, and it comes with a number of useful features that make it a great choice for beginners
+
+Success_rate: 0.0
+Perplexity: 7.284319122346038
+Time_needed: 311.78290247917175
+Success_length: 0.0
+2_distint_rate: 0.8068
+3_distint_rate: 0.9080
+4_distint_rate: 0.9535
+
+Keywords: 
+particular summer insect rise nature 
+
+Final sequence: 
+
+<|endoftext|>The United States has a long history of using torture to extract information from suspects, and the practice has been widely condemned by human rights groups. But the Obama administration has taken a particular interest in the use of waterboarding, a form of simulated drowning that has been used by the CIA and other intelligence agencies for years.
+
+
+The use of waterboarding has been the subject of intense debate in the United States and abroad, and the United States has
+
+Success_rate: 0.2
+Perplexity: 6.5358203978130724
+Time_needed: 311.13811588287354
+Success_length: 0.0
+2_distint_rate: 0.7500
+3_distint_rate: 0.8851
+4_distint_rate: 0.9767
+
+Keywords: 
+anger yet experiment enter eight 
+
+Final sequence: 
+
+<|endoftext|>Do you have a question for the "Ask the Expert" team? Ask it here.
+
+
+If you have a question for the "Ask the Expert" team, you can send it to AskTheExperts@npr.org. You can also tweet your question to @AskTheExperts.
+
+
+You can also listen to the "Ask the Experts" podcast on iTunes, Stitcher, Google Play Music, TuneIn, or wherever
+
+Success_rate: 0.0
+Perplexity: 6.051076711966081
+Time_needed: 303.250403881073
+Success_length: 0.0
+2_distint_rate: 0.6250
+3_distint_rate: 0.7241
+4_distint_rate: 0.7791
+
+Keywords: 
+favor crowd consonant vary melody 
+
+Final sequence: 
+
+<|endoftext|>The Supreme Court of Canada has ruled that the federal government cannot force people to give up their religious beliefs.
+
+
+The court ruled that the government cannot force people to give up their religious beliefs.
+
+
+The court ruled that the government cannot force people to give up their religious beliefs.
+
+
+The court ruled that the government cannot force people to give up their religious beliefs.
+
+
+The court ruled that the government cannot force people to give up
+
+Success_rate: 0.0
+Perplexity: 2.8328154917529167
+Time_needed: 312.23128843307495
+Success_length: 0.0
+2_distint_rate: 0.0909
+3_distint_rate: 0.1034
+4_distint_rate: 0.1163
+
+Keywords: 
+mount print particular range swim 
+
+Final sequence: 
+
+<|endoftext|>Most of us are familiar with the old adage that "a picture is worth a thousand words." It's true that a good picture can make a great story, but it's also true that a good story can make a good picture.
+
+
+In the case of Mount Rushmore, the story of the National Park Service's decision to remove the controversial statue of Robert E. Lee from the grounds of the White House is a good story.
+
+Success_rate: 0.2
+Perplexity: 8.214516633297404
+Time_needed: 317.24104833602905
+Success_length: 0.0
+2_distint_rate: 0.7955
+3_distint_rate: 0.8851
+4_distint_rate: 0.9767
+
+Keywords: 
+spring trip instrument subject choose 
+
+Final sequence: 
+
+<|endoftext|>Last spring, I had the opportunity to attend the first-ever trip to the Middle East by a U.S. presidential candidate. It was a rare opportunity to see the Middle East firsthand, and I was impressed by the level of engagement that the candidates had with the region.
+
+
+The Middle East is a region that is increasingly important to the United States. The United States has a long history of engagement with the region, and it is
+
+Success_rate: 0.4
+Perplexity: 8.179969197409994
+Time_needed: 320.9713251590729
+Success_length: 0.0
+2_distint_rate: 0.7841
+3_distint_rate: 0.9540
+4_distint_rate: 1.0000
+
+Keywords: 
+fair corn tall cotton decimal 
+
+Final sequence: 
+
+<|endoftext|>What is the difference between a basic income and a guaranteed income?
+
+
+A basic income is a guaranteed income paid to all citizens regardless of their income. It is a fair and effective way to ensure that everyone has a basic standard of living.
+
+
+A guaranteed income is a guaranteed income paid to all citizens regardless of their income. It is a fair and effective way to ensure that everyone has a basic standard of living.
+
+
+
+
+Success_rate: 0.2
+Perplexity: 4.8944865319549224
+Time_needed: 317.609947681427
+Success_length: 0.0
+2_distint_rate: 0.1279
+3_distint_rate: 0.2118
+4_distint_rate: 0.2619
+
+Keywords: 
+age sheet solution evening view 
+
+Final sequence: 
+
+<|endoftext|>Most of the time, when you hear about a terrorist attack in the United States, you hear about the perpetrator being a Muslim.
+
+
+But that's not always the case.
+
+
+In fact, according to a new report from the Pew Research Center, there are more than 1,000 terrorist attacks in the United States each year that are not related to Islam.
+
+
+The report found that even as the number of attacks in the United
+
+Success_rate: 0.2
+Perplexity: 6.890600644421052
+Time_needed: 310.5277535915375
+Success_length: 0.0
+2_distint_rate: 0.7841
+3_distint_rate: 0.8736
+4_distint_rate: 0.9767
+
+Keywords: 
+child lake leg flower camp 
+
+Final sequence: 
+
+<|endoftext|>If you have a child with autism, you may be wondering how to help your child.
+
+
+Autism is a developmental disorder that affects the way a person thinks, communicates and interacts with others. It is characterized by difficulties with social interaction, repetitive behaviors and restricted interests.
+
+
+If you have a child with autism, you may be wondering how to help your child.
+
+
+If you have a child with autism, you may be wondering
+
+Success_rate: 0.2
+Perplexity: 6.159933616458496
+Time_needed: 310.57203912734985
+Success_length: 0.0
+2_distint_rate: 0.3977
+3_distint_rate: 0.4138
+4_distint_rate: 0.4302
+
+Keywords: 
+shall organ connect noon steel 
+
+Final sequence: 
+
+<|endoftext|>You can't make this stuff up.
+
+
+The New York Times reports that the Obama administration has decided to allow the use of military force against the Islamic State in Iraq and Syria (ISIS).
+
+
+The decision was announced by Secretary of State John Kerry and Defense Secretary Chuck Hagel in a phone call on Tuesday.
+
+
+The Times says that the decision is based on the need to prevent ISIS from gaining a foothold in Iraq and Syria
+
+Success_rate: 0.0
+Perplexity: 6.7034773232109455
+Time_needed: 302.92273688316345
+Success_length: 0.0
+2_distint_rate: 0.8161
+3_distint_rate: 0.8953
+4_distint_rate: 0.9529
+
+Keywords: 
+truck populate brother stone bank 
+
+Final sequence: 
+
+<|endoftext|>The death toll from the deadly truck attack in Nice has risen to 84, with more than 100 injured, according to the French Interior Ministry.
+
+
+The Interior Ministry said on Twitter that the death toll had risen to 84, with more than 100 injured.
+
+
+The attack took place on the Promenade des Anglais, a popular tourist destination in the French Riviera city, when a truck plowed into a crowd of people on
+
+Success_rate: 0.2
+Perplexity: 6.3555648463726815
+Time_needed: 244.19897150993347
+Success_length: 0.0
+2_distint_rate: 0.6818
+3_distint_rate: 0.7931
+4_distint_rate: 0.8372
+
+Keywords: 
+element control size increase speech 
+
+Final sequence: 
+
+<|endoftext|>Now that the dust has settled, it's time to look at the big picture.
+
+
+The most important element of the game is the control scheme. The controls are simple and intuitive, but the size of the game increases as the difficulty increases. It's not a game for the faint of heart, but it's a game that will appeal to those who are willing to put in the time and effort to master it.
+
+
+The game
+
+Success_rate: 0.8
+Perplexity: 8.71401568624647
+Time_needed: 228.22390151023865
+Success_length: 0.0
+2_distint_rate: 0.8182
+3_distint_rate: 0.9310
+4_distint_rate: 0.9767
+

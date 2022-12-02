@@ -19,3 +19,210 @@ Success_length: 0.37777777777777777
 3_distint_rate: 0.9770
 4_distint_rate: 1.0000
 
+Keywords: 
+brother mother sister grandmother brother father 
+
+Final sequence: 
+
+<|endoftext|>A new study has found that a father's influence on his child's life is a mother's best friend.
+
+
+The study, published in the journal Psychological Science, found that a father's influence on his child's life is a mother's best friend.
+
+
+The study found that a father's influence on his child's life is a mother's best friend.
+
+
+The brother and sister of a mother and father were asked to
+
+Success_rate: 0.6666666666666666
+Perplexity: 4.62436437982206
+Time_needed: 743.0501101016998
+Success_length: 0.0
+2_distint_rate: 0.2759
+3_distint_rate: 0.3140
+4_distint_rate: 0.3412
+
+Keywords: 
+summer fall winter spring autumn 
+
+Final sequence: 
+
+<|endoftext|>Since the summer of 2014, the United States has been engaged in a war against the Islamic State in Iraq and Syria (ISIS). The United States has been bombing ISIS targets in Iraq and Syria for more than a year. The United States has also been bombing the fall-out from the war in Syria, which has killed more than a million people and displaced more than a million more.
+
+
+The United States has been bombing ISIS targets in Iraq
+
+Success_rate: 0.4
+Perplexity: 5.032938408430963
+Time_needed: 784.7486124038696
+Success_length: 0.0
+2_distint_rate: 0.5795
+3_distint_rate: 0.6782
+4_distint_rate: 0.7791
+
+Keywords: 
+brother boy men dad male 
+
+Final sequence: 
+
+<|endoftext|>If you don't have a lot of time to play, you can also check out the following video:
+
+
+You can also check out the following video:
+
+
+The game is currently in development and will be released in the first half of 2018.
+
+
+You can also check out the following video:
+
+
+You can also check out the following video:
+
+
+You can also check out the following video:
+
+
+You
+
+Success_rate: 0.0
+Perplexity: 4.59798952975475
+Time_needed: 785.5464119911194
+Success_length: 0.0
+2_distint_rate: 0.3605
+3_distint_rate: 0.3765
+4_distint_rate: 0.3929
+
+Keywords: 
+women girl sister mother female 
+
+Final sequence: 
+
+<|endoftext|>Image copyright Getty Images Image caption Women in the UK are more likely to be victims of domestic abuse than men
+
+
+Girls are more likely to be victims of domestic abuse than boys, according to a study.
+
+
+The study, by the charity Sisters Uncut, found that girls were more likely to be victims of domestic abuse than boys.
+
+
+The female victimisation rate was 2.5 times higher than the male victimisation rate
+
+Success_rate: 0.8
+Perplexity: 7.098794183361252
+Time_needed: 789.0831069946289
+Success_length: 0.0
+2_distint_rate: 0.5698
+3_distint_rate: 0.6588
+4_distint_rate: 0.7143
+
+Keywords: 
+childhood adolescent infancy adulthood senescence 
+
+Final sequence: 
+
+<|endoftext|>Your browser does not support HTML5 video tag.Click here to view original GIF
+
+
+This is one of the most amazing things I've ever seen. A team of researchers from the University of California, Berkeley, has created a 3-D printer that can print out a living, breathing human being.
+
+
+Advertisement
+
+
+The printer, which is called the 3D Bioprinter, is designed to print out a human
+
+Success_rate: 0.0
+Perplexity: 7.3597154532628055
+Time_needed: 769.5934612751007
+Success_length: 0.0
+2_distint_rate: 0.9195
+3_distint_rate: 0.9767
+4_distint_rate: 1.0000
+
+Keywords: 
+cow ox pig horse sheep 
+
+Final sequence: 
+
+<|endoftext|>A man has been charged with the murder of a woman who was found dead in a bathtub in a west-end apartment building.
+
+
+Police say the body of the woman, who was in her 20s, was found in the bathtub of a second-floor apartment on the first floor of the building on Sunday.
+
+
+The woman's body was found in the bathtub of a second-floor apartment on the first floor of
+
+Success_rate: 0.0
+Perplexity: 4.955765296622076
+Time_needed: 709.9789209365845
+Success_length: 0.0
+2_distint_rate: 0.5114
+3_distint_rate: 0.6552
+4_distint_rate: 0.6977
+
+Keywords: 
+noon midnight afternoon evening morning 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not be in its final form.
+
+
+AMY GOODMAN: We turn now to the case of the National Security Agency whistleblower Edward Snowden, who has been charged with espionage and theft of government property. He has been living in Russia since June, when he fled to Hong Kong. He has been granted temporary asylum in Russia, but he has not been allowed to leave the country. On Tuesday evening, he was
+
+Success_rate: 0.2
+Perplexity: 5.131457874337034
+Time_needed: 702.6346099376678
+Success_length: 0.0
+2_distint_rate: 0.8977
+3_distint_rate: 0.9540
+4_distint_rate: 0.9767
+
+Keywords: 
+valley stream basin sea lake 
+
+Final sequence: 
+
+<|endoftext|>Untitled a guest Oct 1st, 2017 2,071 Never a guest2,071Never
+
+
+Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
+
+
+rawdownloadcloneembedreportprint text 1.43 KB #include <iostream> #include <string> #include <vector> #include <algorithm> #include <algorithm> using namespace std; int main() { string stream; vector<
+
+Success_rate: 0.2
+Perplexity: 5.499494198580268
+Time_needed: 721.8042848110199
+Success_length: 0.0
+2_distint_rate: 0.6744
+3_distint_rate: 0.8000
+4_distint_rate: 0.8810
+
+Keywords: 
+mouth nose eyes ear hair 
+
+Final sequence: 
+
+<|endoftext|>Check out the video below to see the inside of the new building.
+
+
+The new building will be located on the corner of Main Street and Central Avenue. The building will be a mixed-use building with office, retail, and residential space.
+
+
+The building will have a total of 1,500 square feet of office space and 1,500 square feet of retail space.
+
+
+The building will have a total of 1,
+
+Success_rate: 0.0
+Perplexity: 5.974520470054878
+Time_needed: 703.5003097057343
+Success_length: 0.0
+2_distint_rate: 0.5172
+3_distint_rate: 0.6047
+4_distint_rate: 0.6824
+

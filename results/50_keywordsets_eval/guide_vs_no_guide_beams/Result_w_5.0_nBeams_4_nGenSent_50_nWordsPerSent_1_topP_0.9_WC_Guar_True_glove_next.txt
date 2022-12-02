@@ -563,3 +563,707 @@ Success_length: 0.84
 3_distint_rate: 1.0000
 4_distint_rate: 1.0000
 
+Keywords: 
+guide jump eight row settle 
+
+Final sequence: 
+
+<|endoftext|>CALGARY — The federal guide to jump-starting the eight-year-old oil sands industry says the row over the Keystone XL pipeline will settle into a mere footnote.
+
+
+TransCanada Corp.'s Keystone XL project is not expected
+
+Success_rate: 1.0
+Perplexity: 31.902097396767356
+Time_needed: 256.2445604801178
+Success_length: 0.62
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+rise favor soft tie tie 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not be in its final form.
+
+ riseup.net/videos/2014/10/14/ favor- soft-on- tie- tie-vs-width/<|endoftext|>NOTE:
+
+
+
+
+Success_rate: 1.0
+Perplexity: 57.52852448875411
+Time_needed: 340.0388431549072
+Success_length: 0.78
+2_distint_rate: 0.9048
+3_distint_rate: 0.9512
+4_distint_rate: 1.0000
+
+Keywords: 
+excite quite capital trip lady 
+
+Final sequence: 
+
+<|endoftext|>The U.S. Supreme Court on Monday rejected a challenge to a Texas law that requires voters to present photo identification at the polls.
+
+
+Click Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo Yahoo excite quite capital trip lady
+
+Success_rate: 1.0
+Perplexity: 95.6047159532193
+Time_needed: 424.42131304740906
+Success_length: 1.0
+2_distint_rate: 0.7347
+3_distint_rate: 0.7500
+4_distint_rate: 0.7660
+
+Keywords: 
+oxygen anger art spoke race 
+
+Final sequence: 
+
+<|endoftext|>How would you like to be able to use your oxygen tank to power your car while you're on the road? The anger of a California Art Council member who spoke out against the idea was race-baiting at its finest. At a press conference
+
+Success_rate: 1.0
+Perplexity: 28.069328220957626
+Time_needed: 330.078489780426
+Success_length: 0.78
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+joy require chicken else cow 
+
+Final sequence: 
+
+<|endoftext|>http://tvtropes.org/pmwiki/pmwiki.php/Main/JoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoyJoy joy require chicken else cow
+
+Success_rate: 1.0
+Perplexity: 8.491033019726403
+Time_needed: 435.80833888053894
+Success_length: 1.0
+2_distint_rate: 0.3878
+3_distint_rate: 0.4375
+4_distint_rate: 0.4468
+
+Keywords: 
+search major string cost village 
+
+Final sequence: 
+
+<|endoftext|>In addition to the search for the missing plane, the major search for the missing string quartet is also being led by the US Coast Guard and cost $3.5 million.
+
+ villagelis@edinburghnews.com
+
+
+
+
+Success_rate: 1.0
+Perplexity: 47.501165685179735
+Time_needed: 332.2812123298645
+Success_length: 0.78
+2_distint_rate: 0.8750
+3_distint_rate: 0.9149
+4_distint_rate: 0.9565
+
+Keywords: 
+enemy dad thick crowd length 
+
+Final sequence: 
+
+<|endoftext|>Here are some of the most common enemy types you'll encounter in the game. You'll find them in Dad's house, the church, the thick crowd of people in the streets and the length and breadth of your own home.
+
+
+The
+
+Success_rate: 1.0
+Perplexity: 19.163651379975963
+Time_needed: 319.1354696750641
+Success_length: 0.72
+2_distint_rate: 0.9167
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+engine experiment caught chair visit 
+
+Final sequence: 
+
+<|endoftext|>Engineered to be the best on the market, the M experiment is the first of its kind to be caught in the crossfire of the chair wars. Visit the Cupertino, Calif., company's Kickstarter page today and pledge to be the first
+
+Success_rate: 1.0
+Perplexity: 31.13065679874881
+Time_needed: 296.7581510543823
+Success_length: 0.7
+2_distint_rate: 0.9000
+3_distint_rate: 0.9592
+4_distint_rate: 1.0000
+
+Keywords: 
+represent substance student tone million 
+
+Final sequence: 
+
+<|endoftext|>World War I represented one of the most significant events in the history of substance abuse. It was the first time that the student population of the United States was used to tone down the use of million-dollar cigarettes and leaded beer to their deaths.
+
+Success_rate: 1.0
+Perplexity: 27.464888608541763
+Time_needed: 339.149751663208
+Success_length: 0.78
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+ring imagine human fruit shout 
+
+Final sequence: 
+
+<|endoftext|>Organizers of the upcoming Ring of Honor TV tapings in New York City have released a list of what they imagine will be the most anticipated human beings in the company's fruitless attempt to shout down the future of its flagship pay-per-view
+
+Success_rate: 1.0
+Perplexity: 31.49172063264086
+Time_needed: 335.2395644187927
+Success_length: 0.78
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+matter dad flat control women 
+
+Final sequence: 
+
+<|endoftext|>It is a matter of record that I have never been to any of Dad's Christmas parties. I am flattered that he would think of me as a control freak, but I am not women's liberation.
+
+
+I have learned to react
+
+Success_rate: 1.0
+Perplexity: 27.883293919014864
+Time_needed: 334.8234763145447
+Success_length: 0.78
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+stone anger include milk scale 
+
+Final sequence: 
+
+<|endoftext|>The Stone is a forum for contemporary philosophers and other thinkers on issues both timely and timeless.
+
+ anger is a state of mind that includes a feeling of anger toward someone or something that milked you, a scale of indignation toward someone or something,
+
+Success_rate: 1.0
+Perplexity: 64.75249812288205
+Time_needed: 326.7251362800598
+Success_length: 0.86
+2_distint_rate: 0.8333
+3_distint_rate: 0.9149
+4_distint_rate: 0.9565
+
+Keywords: 
+slip visit material reply cow 
+
+Final sequence: 
+
+<|endoftext|>If you're looking for a way to slip into the next level of the world of visit-to-work material, you might want to check out Reply All, a new podcast from Coworker that features more employees talking about work and life at
+
+Success_rate: 1.0
+Perplexity: 30.141683915597014
+Time_needed: 269.1062002182007
+Success_length: 0.76
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+safe drop wife eight matter 
+
+Final sequence: 
+
+<|endoftext|>Most of us are familiar with the safe-and-sound approach of using the drop-down menu to select a wife or girlfriend from the eight available options. But what if you want to matter-of-factly select who should participate in your
+
+Success_rate: 1.0
+Perplexity: 30.25084755243928
+Time_needed: 296.85011100769043
+Success_length: 0.78
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+ball hurry lost smell plural 
+
+Final sequence: 
+
+<|endoftext|>Are you a little ballerina? Do you want to be a ballerina? Do you want to hurry up and get a job in the lost art of ballerina smell? Do you want to pluralize "Ballerina" in
+
+Success_rate: 1.0
+Perplexity: 19.23061671759974
+Time_needed: 332.87441396713257
+Success_length: 0.86
+2_distint_rate: 0.5714
+3_distint_rate: 0.6667
+4_distint_rate: 0.7447
+
+Keywords: 
+push choose bright trouble human 
+
+Final sequence: 
+
+<|endoftext|>It's been a while since I've been able to push out a new post, but I wanted to choose something that I think is a bright spot in the trouble we're in right now. Human trafficking is a problem on every continent, it's
+
+Success_rate: 1.0
+Perplexity: 18.086834148627673
+Time_needed: 301.4832203388214
+Success_length: 0.8
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+chance bed forward kill hair 
+
+Final sequence: 
+
+<|endoftext|>UNITED NATIONS (Reuters) - The chance of a U.N. Security Council resolution to bed in a ceasefire in Syria has dropped to just a forward chance, U.S. Killary said on hair-raising talk shows on Wednesday,
+
+Success_rate: 1.0
+Perplexity: 30.68492161640644
+Time_needed: 341.44710874557495
+Success_length: 0.86
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+blow mass brother market roll 
+
+Final sequence: 
+
+<|endoftext|>Don't forget to check out our latest blowout of Mass Effect 3!
+
+
+This is the brotherhood of the market: the Mass Effect 3 Roll20 game. If you've never played Roll20 before, they make a free account,
+
+Success_rate: 1.0
+Perplexity: 31.41712494362259
+Time_needed: 263.0286982059479
+Success_length: 0.64
+2_distint_rate: 0.8750
+3_distint_rate: 0.9574
+4_distint_rate: 1.0000
+
+Keywords: 
+block quite dead subtract band 
+
+Final sequence: 
+
+<|endoftext|>Even as the U.S. government blocks the sale of its most valuable uranium to Russia, it is quite likely that the dead-end deal will be approved by subtracting a few million band-aids, according to a U.S.
+
+Success_rate: 1.0
+Perplexity: 21.05853249907025
+Time_needed: 298.6932349205017
+Success_length: 0.74
+2_distint_rate: 0.8776
+3_distint_rate: 0.9167
+4_distint_rate: 0.9574
+
+Keywords: 
+difficult shine practice stream supply 
+
+Final sequence: 
+
+<|endoftext|>The U.S. Department of Justice is seeking to have a difficult-to-obtain shine on the practice of using Streamlight to supply surveillance devices such as stingrays to police in Florida, Massachusetts, and Ohio, the New York Times reports
+
+Success_rate: 1.0
+Perplexity: 24.853815072443634
+Time_needed: 240.634042263031
+Success_length: 0.58
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+corn magnet team symbol egg 
+
+Final sequence: 
+
+<|endoftext|>Ebola is a highly contagious disease that is spread through contact with bodily fluids from Cornish foxes, which are native to West Africa. Magnetically-infected team members are often symbolically associated with egg-shaped whiskers, in line
+
+Success_rate: 1.0
+Perplexity: 36.190360574624606
+Time_needed: 336.9088611602783
+Success_length: 0.86
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+experiment cost third wrong melody 
+
+Final sequence: 
+
+<|endoftext|>1. Introduction
+
+
+This experiment is designed to test the cost-effectiveness of a number of third-party payment systems that have been wrongfully accused of being fraudulent. The melody name is restricted to U.S. coins or money issued
+
+Success_rate: 1.0
+Perplexity: 34.71370750224689
+Time_needed: 245.76073098182678
+Success_length: 0.76
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+deal heavy cell spend shall 
+
+Final sequence: 
+
+<|endoftext|>About this mod This is a deal with the devil, heavy armor! Permissions and credits Author's instructions File credits Cell can be used for any purpose. I just spend a lot of time making it shall I? Donation Points system This mod is not
+
+Success_rate: 1.0
+Perplexity: 33.256414487240356
+Time_needed: 265.04441928863525
+Success_length: 0.82
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+join circle describe led save 
+
+Final sequence: 
+
+<|endoftext|>It's time to join the circle of the dead.
+
+
+This is the story of how I describe the death of my first LED lightbulb. It's a save the world story, the easy way out.
+
+
+It's funny
+
+Success_rate: 1.0
+Perplexity: 35.7609193720788
+Time_needed: 212.96751952171326
+Success_length: 0.72
+2_distint_rate: 0.8750
+3_distint_rate: 0.9574
+4_distint_rate: 1.0000
+
+Keywords: 
+stream create sugar parent crop 
+
+Final sequence: 
+
+<|endoftext|>Stream more of your favorite shows and create your own personalized schedule with the SugarSync app for Apple TV. You can also parent your Apple TV to watch your favorite shows crop up across multiple devices on the same TV.
+
+
+With the SugarSync
+
+Success_rate: 1.0
+Perplexity: 30.418391442638057
+Time_needed: 194.66949152946472
+Success_length: 0.68
+2_distint_rate: 0.7500
+3_distint_rate: 0.9149
+4_distint_rate: 1.0000
+
+Keywords: 
+desert wild crop bear enemy 
+
+Final sequence: 
+
+<|endoftext|>Why is it that desert birds are so wild?
+
+
+The crop that bears their name is a type of wild rice that is cultivated in enemy territory, giving the birds their name. It comes from the Chinese ji gai, "wild
+
+Success_rate: 1.0
+Perplexity: 36.560694810470224
+Time_needed: 179.71551370620728
+Success_length: 0.6
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+paragraph anger quite general led 
+
+Final sequence: 
+
+<|endoftext|>The following paragraphs are from the article, "The Problem of Anger" in the May/June issue of the Quite Right magazine. The general article is reprinted with permission from the Ledger-Enquirer. Reprinted by permission of the publisher
+
+Success_rate: 1.0
+Perplexity: 22.86148051348665
+Time_needed: 220.42434930801392
+Success_length: 0.72
+2_distint_rate: 0.9184
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+born ride collect milk rose 
+
+Final sequence: 
+
+<|endoftext|>You can't tell me that a born-again Christian is going to ride a horse to collect milk from a little girl in a village in the Rosebud hills. I mean, what kind of Christian would do that?
+
+
+Whatever your
+
+Success_rate: 1.0
+Perplexity: 26.797998907596558
+Time_needed: 188.63066148757935
+Success_length: 0.6
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+cost thank summer control nose 
+
+Final sequence: 
+
+<|endoftext|>This is an open-access article distributed under the terms of the Creative Commons Attribution License costofliving.com/licenses/by-nc Thank you for your contribution to this summer's Cost of Living Control survey. Nose 21 October, 2011
+
+
+
+Success_rate: 1.0
+Perplexity: 41.27295540964015
+Time_needed: 274.5761001110077
+Success_length: 0.9
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+increase village gather summer fit 
+
+Final sequence: 
+
+<|endoftext|>Even though the increases in the number of people who are living in villages or small towns have been less than expected, the gather of the summer of 2015 has seen a fitful but sustained increase in people leaving urban areas for rural areas.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 37.73633187541813
+Time_needed: 209.61847591400146
+Success_length: 0.68
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+tone speech represent century duck 
+
+Final sequence: 
+
+<|endoftext|>There's a lot of tone in speech, but there's also a lot of tone in representational art, and that's what the century-old work of the New York-based Duck Dynasty is all about. No, we're not talking about
+
+Success_rate: 1.0
+Perplexity: 17.908634902466986
+Time_needed: 215.3908190727234
+Success_length: 0.76
+2_distint_rate: 0.8400
+3_distint_rate: 0.8776
+4_distint_rate: 0.9167
+
+Keywords: 
+particular summer insect rise nature 
+
+Final sequence: 
+
+<|endoftext|>In an interview with the New York Times on Wednesday, Donald Trump said that he would not have particular interest in the summer of 2016 if he were not running for president. Insects rise and fall in nature. Humans and other animals are consumed by other
+
+Success_rate: 1.0
+Perplexity: 18.83855739755691
+Time_needed: 249.20454335212708
+Success_length: 0.82
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+anger yet experiment enter eight 
+
+Final sequence: 
+
+<|endoftext|>If you've been looking for a way to get your anger out yet again, this experiment is for you. Enter the Game of Thrones Season Eight world. Picture it in your head. Come with me.
+
+
+Once upon a time, power
+
+Success_rate: 1.0
+Perplexity: 28.19435606973693
+Time_needed: 189.87910342216492
+Success_length: 0.6
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+favor crowd consonant vary melody 
+
+Final sequence: 
+
+<|endoftext|>A federal appeals court has ruled that the Obama administration can favor transgender students in the use of bathrooms and locker rooms that match their gender identity crowding out other students.
+
+
+In a vowel vowel vowel vowel vowel vowel vowel vowel vowel consonant vary melody
+
+Success_rate: 1.0
+Perplexity: 51.56076135581554
+Time_needed: 307.27472138404846
+Success_length: 1.0
+2_distint_rate: 0.8367
+3_distint_rate: 0.8542
+4_distint_rate: 0.8723
+
+Keywords: 
+mount print particular range swim 
+
+Final sequence: 
+
+<|endoftext|>NEW YORK (Reuters) - Mount Sinai Hospital in New York City said on Wednesday it had printed the names of all of its employees on a particular type of medical range cover, a move that swims against federal privacy rules.
+
+
+Medication
+
+Success_rate: 1.0
+Perplexity: 39.718044691305195
+Time_needed: 252.04777812957764
+Success_length: 0.78
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+spring trip instrument subject choose 
+
+Final sequence: 
+
+<|endoftext|>The best part of spring break is the trip to the beach. The best part of summer is the summer instrument collection. The best part of fall is the subject matter that we choose to review. The best part of winter is the photos of the people
+
+Success_rate: 1.0
+Perplexity: 21.763428108041694
+Time_needed: 223.30411672592163
+Success_length: 0.72
+2_distint_rate: 0.6400
+3_distint_rate: 0.7959
+4_distint_rate: 0.8750
+
+Keywords: 
+fair corn tall cotton decimal 
+
+Final sequence: 
+
+<|endoftext|>He said he was a fair-weather supporter of the Cornhuskers, but he was not a big Tallahassee cotton-picker.
+
+
+"I decimalized pretty much everything I could about Iowa," he said. "I
+
+Success_rate: 1.0
+Perplexity: 24.2409269811724
+Time_needed: 220.59010434150696
+Success_length: 0.72
+2_distint_rate: 0.9583
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+age sheet solution evening view 
+
+Final sequence: 
+
+<|endoftext|>There's a new age of low-cost sheet metal for the solution to the evening commute. And it's coming from the View International Steel Co.
+
+
+The Oregon-based supplier, which is based in Seattle, is one of the latest
+
+Success_rate: 1.0
+Perplexity: 38.51238953878895
+Time_needed: 166.77253007888794
+Success_length: 0.52
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+child lake leg flower camp 
+
+Final sequence: 
+
+<|endoftext|>If you have a child with autism, you may be surprised to learn that the lake in your backyard may not be the best place for your lego flowerbed.
+
+
+Camping in Lake Haven
+
+
+Camping in Lake Haven is
+
+Success_rate: 1.0
+Perplexity: 27.2567562958762
+Time_needed: 228.45733618736267
+Success_length: 0.74
+2_distint_rate: 0.7447
+3_distint_rate: 0.7826
+4_distint_rate: 0.8222
+
+Keywords: 
+shall organ connect noon steel 
+
+Final sequence: 
+
+<|endoftext|>While it's true that the majority of shall-issue states have a constitutional organ that provides for the issuance of marriage licenses to same-sex couples connecting with the state noon-to-midnight steel around a photo of the couple, there are many
+
+Success_rate: 1.0
+Perplexity: 65.53183959261082
+Time_needed: 250.541841506958
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+truck populate brother stone bank 
+
+Final sequence: 
+
+<|endoftext|>The truck driver who was killed in a crash with a school bus on the South Side has been identified as populate the brother of a Stonecrest High School student who died in a bank robbery earlier this month, according to the Cook County medical examiner's
+
+Success_rate: 1.0
+Perplexity: 19.131950697325816
+Time_needed: 202.40923428535461
+Success_length: 0.74
+2_distint_rate: 0.9592
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+element control size increase speech 
+
+Final sequence: 
+
+<|endoftext|>Abstract
+
+
+The element of control is fundamental to the design of size and shape of the increased number of objects in the human environment. Speech technology is a very effective tool for communication, but, with increasing adoption, more and more devices are constantly
+
+Success_rate: 1.0
+Perplexity: 43.96648834905966
+Time_needed: 176.8263041973114
+Success_length: 0.58
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+

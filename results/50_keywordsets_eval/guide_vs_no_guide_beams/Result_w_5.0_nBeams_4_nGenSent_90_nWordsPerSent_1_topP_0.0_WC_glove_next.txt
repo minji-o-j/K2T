@@ -1720,3 +1720,1019 @@ Success_length: 0.0
 3_distint_rate: 0.0341
 4_distint_rate: 0.0345
 
+Keywords: 
+touch nation chief edge wire 
+
+Final sequence: 
+
+<|endoftext|>You may have heard that the new iPhone X is the most expensive iPhone ever made. But it's not just the price that's a big deal. It's the fact that Apple is using a completely new touch-screen display.
+
+
+The new iPhone X is the most expensive iPhone ever made.
+
+
+The new iPhone X is the most expensive iPhone ever made.
+
+
+The new iPhone X is the most expensive iPhone ever made
+
+Success_rate: 0.2
+Perplexity: 5.594072653631963
+Time_needed: 643.2293190956116
+Success_length: 0.0
+2_distint_rate: 0.4186
+3_distint_rate: 0.4353
+4_distint_rate: 0.4524
+
+Keywords: 
+poem temperature sky crop silent 
+
+Final sequence: 
+
+<|endoftext|>This is the story of a man who is about to be sentenced to death for the murder of his wife. He is a man who is about to be executed for the murder of his wife. He is a man who is about to be executed for the murder of his wife. He is a man who is about to be executed for the murder of his wife. He is a man who is about to be executed for the murder of his wife.
+
+Success_rate: 0.0
+Perplexity: 2.1394794228712932
+Time_needed: 740.6282432079315
+Success_length: 0.0
+2_distint_rate: 0.1011
+3_distint_rate: 0.1136
+4_distint_rate: 0.1264
+
+Keywords: 
+effect neighbor gas oxygen term 
+
+Final sequence: 
+
+<|endoftext|>You can use the following terms in effect in relation to a person:
+
+
+1. A person is a person who is a member of the family of a person who is a member of the family of a person who is a member of the family of a person who is a member of the family of a person who is a member of the family of a person who is a member of the family of a person who is a member of the
+
+Success_rate: 0.4
+Perplexity: 2.7544205064131884
+Time_needed: 742.0910110473633
+Success_length: 0.0
+2_distint_rate: 0.2273
+3_distint_rate: 0.2529
+4_distint_rate: 0.2558
+
+Keywords: 
+feed salt molecule lot represent 
+
+Final sequence: 
+
+<|endoftext|>A group of high school students in the United States have created a new kind of computer chip that can be used to create a device that can be used to create a self-driving car.
+
+
+The chip, which is being developed by the University of California, San Diego, and the University of California, San Diego, is designed to be able to read and write data to and from the memory of a computer. The chip can also be
+
+Success_rate: 0.0
+Perplexity: 6.675363580037506
+Time_needed: 754.8360180854797
+Success_length: 0.0
+2_distint_rate: 0.7045
+3_distint_rate: 0.7471
+4_distint_rate: 0.7907
+
+Keywords: 
+lady dear lot except region 
+
+Final sequence: 
+
+<|endoftext|>"I don't know how to say it, but I feel like I'm a little bit of a weirdo," he said. "I don't know what to say."
+
+
+He added: "I don't know what to say. I don't know what to say. I don't know what to say."
+
+
+He also said he was "a little bit of a lot of things" and that he was "
+
+Success_rate: 0.2
+Perplexity: 4.70501932307068
+Time_needed: 765.2223598957062
+Success_length: 0.0
+2_distint_rate: 0.4023
+3_distint_rate: 0.4884
+4_distint_rate: 0.5647
+
+Keywords: 
+guide jump eight row settle 
+
+Final sequence: 
+
+<|endoftext|>This guide will show you how to set up a Raspberry Pi with a USB keyboard and mouse.
+
+
+This guide will show you how to set up a Raspberry Pi with a USB keyboard and mouse.
+
+
+Jump to:
+
+
+Prerequisites
+
+
+Before you begin, you will need to have a working internet connection. If you are not sure what this means, check out our guide on how to set up a Raspberry Pi
+
+Success_rate: 0.4
+Perplexity: 6.450462511470618
+Time_needed: 740.3669555187225
+Success_length: 0.0
+2_distint_rate: 0.4353
+3_distint_rate: 0.4881
+4_distint_rate: 0.5181
+
+Keywords: 
+rise favor soft tie tie 
+
+Final sequence: 
+
+<|endoftext|>I'm not sure where to start with this one. I'm not sure where to start with this one.
+
+
+I'm not sure where to start with this one.
+
+
+I'm not sure where to start with this one.
+
+
+I'm not sure where to start with this one.
+
+
+I'm not sure where to start with this one.
+
+
+I'm not sure where to start with this one.
+
+
+
+
+Success_rate: 0.0
+Perplexity: 2.2311069752646135
+Time_needed: 695.9332187175751
+Success_length: 0.0
+2_distint_rate: 0.0227
+3_distint_rate: 0.0345
+4_distint_rate: 0.0465
+
+Keywords: 
+excite quite capital trip lady 
+
+Final sequence: 
+
+<|endoftext|>If you're a fan of the New York Giants, you'll be excited to hear that quite a few of the team's players will be in attendance at the Super Bowl.
+
+
+The Giants will be in attendance for the game, which will be played at MetLife Stadium in East Rutherford, New Jersey. The team will be in town for the first time since the 2011 season.
+
+
+The Giants will be in town for the first time
+
+Success_rate: 0.4
+Perplexity: 6.091451015603397
+Time_needed: 684.8244898319244
+Success_length: 0.0
+2_distint_rate: 0.6364
+3_distint_rate: 0.7241
+4_distint_rate: 0.7674
+
+Keywords: 
+oxygen anger art spoke race 
+
+Final sequence: 
+
+<|endoftext|>Get daily updates directly to your inbox Subscribe Thank you for subscribing See our privacy notice Could not subscribe, try again later Invalid Email
+
+
+A group of students have been accused of vandalising a Catholic church in the city centre.
+
+
+The group of around 10 students from the University of East Anglia (UEA) have been accused of damaging the church at the junction of High Street and High Street.
+
+
+The damage was caused by
+
+Success_rate: 0.0
+Perplexity: 7.861962646657338
+Time_needed: 690.7529454231262
+Success_length: 0.0
+2_distint_rate: 0.8046
+3_distint_rate: 0.9070
+4_distint_rate: 0.9529
+
+Keywords: 
+joy require chicken else cow 
+
+Final sequence: 
+
+<|endoftext|>Get daily updates directly to your inbox Subscribe Thank you for subscribing See our privacy notice Could not subscribe, try again later Invalid Email
+
+
+A MAN has been jailed for life for the murder of his wife.
+
+
+A jury at Manchester Crown Court heard how the 54-year-old father-of-two, who cannot be named for legal reasons, stabbed his wife to death in their home in Bury St Edmunds, Greater Manchester
+
+Success_rate: 0.0
+Perplexity: 6.777246380523829
+Time_needed: 695.7144808769226
+Success_length: 0.0
+2_distint_rate: 0.9310
+3_distint_rate: 0.9767
+4_distint_rate: 1.0000
+
+Keywords: 
+search major string cost village 
+
+Final sequence: 
+
+<|endoftext|>As a search major at the University of California, Berkeley, I have had the opportunity to spend a lot of time in the Bay Area. I have been to the San Francisco Zoo, the Golden Gate Bridge, the Golden Gate Park, the Golden Gate Bridge Tunnel, the Golden Gate Bridge, the Golden Gate Bridge Tunnel, the Golden Gate Bridge, the Golden Gate Bridge Tunnel, the Golden Gate Bridge, the Golden Gate Bridge Tunnel, the Golden Gate Bridge
+
+Success_rate: 0.4
+Perplexity: 4.659900952470857
+Time_needed: 568.2991414070129
+Success_length: 0.0
+2_distint_rate: 0.4222
+3_distint_rate: 0.4607
+4_distint_rate: 0.4773
+
+Keywords: 
+enemy dad thick crowd length 
+
+Final sequence: 
+
+<|endoftext|>"In enemy territory, the only thing that matters is the enemy."
+
+
+The only thing that matters is the enemy.
+
+
+It's the only thing that matters.
+
+
+It's the only thing that matters.
+
+
+It's the only thing that matters.
+
+
+It's the only thing that matters.
+
+
+It's the only thing that matters.
+
+
+It's the only thing that matters.
+
+
+It's
+
+Success_rate: 0.2
+Perplexity: 4.534794576359513
+Time_needed: 520.1763746738434
+Success_length: 0.0
+2_distint_rate: 0.1136
+3_distint_rate: 0.1494
+4_distint_rate: 0.1744
+
+Keywords: 
+engine experiment caught chair visit 
+
+Final sequence: 
+
+<|endoftext|>"It was a really great experience," he said. "I was able to meet a lot of great people and get to know a lot of the people in the engine room."
+
+
+In addition to his work on the project, he also worked on the development of the new F-35 Lightning II fighter jet.
+
+
+"It was a great experience to work on the F-35 program," he said. "It was a great
+
+Success_rate: 0.4
+Perplexity: 7.383949848997386
+Time_needed: 522.2044637203217
+Success_length: 0.0
+2_distint_rate: 0.6067
+3_distint_rate: 0.8068
+4_distint_rate: 0.9310
+
+Keywords: 
+represent substance student tone million 
+
+Final sequence: 
+
+<|endoftext|>I'm a student at the University of Texas at Austin, and I've been working on a project to represent the diversity of the campus in a way that's easy to understand. I wanted to share my work with you.
+
+
+I've been working on this project for about a year now, and I'm really excited to share it with you. I hope you find it useful.
+
+
+The project is called "The Diversity of the
+
+Success_rate: 0.4
+Perplexity: 6.660103944958405
+Time_needed: 527.0582013130188
+Success_length: 0.0
+2_distint_rate: 0.7500
+3_distint_rate: 0.8851
+4_distint_rate: 0.9767
+
+Keywords: 
+ring imagine human fruit shout 
+
+Final sequence: 
+
+<|endoftext|>The first time I heard about the so-called "death panels" was in the summer of 2009, when the New York Times published a story about the White House's plans to create a new panel to advise the president on health care. The panel would be chaired by a member of the president's own party, and would be charged with recommending to the president a course of action that would result in the death of one or more Americans.
+
+
+
+Success_rate: 0.0
+Perplexity: 8.62458077462892
+Time_needed: 532.1008033752441
+Success_length: 0.0
+2_distint_rate: 0.8977
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+matter dad flat control women 
+
+Final sequence: 
+
+<|endoftext|>ADVERTISEMENT
+
+
+In a matter of days, the U.S. Supreme Court will hear arguments in a case that could determine the fate of the Affordable Care Act, or Obamacare.
+
+
+The case, King v. Burwell, was brought by the state of Kansas, which sued the federal government to force the federal government to pay for the state's expansion of Medicaid under the Affordable Care Act.
+
+
+The Supreme Court will hear arguments
+
+Success_rate: 0.2
+Perplexity: 6.3364283926437475
+Time_needed: 521.3932881355286
+Success_length: 0.0
+2_distint_rate: 0.6667
+3_distint_rate: 0.7907
+4_distint_rate: 0.8824
+
+Keywords: 
+stone anger include milk scale 
+
+Final sequence: 
+
+<|endoftext|>The last few weeks have been a roller coaster of emotions for me. I have been working on a project for the past few months that I have been working on for the past few years. I have been working on it for the past few years and I have been working on it for the past few years. I have been working on it for the past few years and I have been working on it for the past few years. I have been working
+
+Success_rate: 0.0
+Perplexity: 2.9934675986816353
+Time_needed: 528.3447959423065
+Success_length: 0.0
+2_distint_rate: 0.2135
+3_distint_rate: 0.2614
+4_distint_rate: 0.2989
+
+Keywords: 
+slip visit material reply cow 
+
+Final sequence: 
+
+<|endoftext|>If you're looking for a way to get your hands on a copy of the game before it hits store shelves, you can slip the game into your pre-order package and get it shipped to you as soon as it's available for pre-order. The game will be available for pre-order on Steam for $19.99, and will be available for pre-order on the PlayStation Store for $19.99.
+
+
+Visit
+
+Success_rate: 0.4
+Perplexity: 6.262027461365744
+Time_needed: 529.7850906848907
+Success_length: 0.0
+2_distint_rate: 0.6629
+3_distint_rate: 0.7500
+4_distint_rate: 0.8161
+
+Keywords: 
+safe drop wife eight matter 
+
+Final sequence: 
+
+<|endoftext|>We are pleased to announce that the first of our new projects will be released in the coming weeks.
+
+
+The project is a new tool for safe estimation of the number of particles in a particle drop, which will be used in the future to estimate the number of particles in a drop of water. The tool will be based on the work of our colleagues at the University of Cambridge and the University of California, Berkeley.
+
+
+The tool will
+
+Success_rate: 0.4
+Perplexity: 11.239491393464766
+Time_needed: 523.7375776767731
+Success_length: 0.0
+2_distint_rate: 0.6705
+3_distint_rate: 0.8391
+4_distint_rate: 0.9070
+
+Keywords: 
+ball hurry lost smell plural 
+
+Final sequence: 
+
+<|endoftext|>Do you want to know how to make a ball of yarn? I know I do.
+
+
+I've been wanting to make a ball of yarn for a while now, and I finally got around to it. I wanted to make a ball of yarn that would be easy to work with, and would be easy to clean up. I wanted to make a ball of yarn that would be easy to work with, and would be easy to clean
+
+Success_rate: 0.2
+Perplexity: 4.621372518486491
+Time_needed: 426.70098972320557
+Success_length: 0.0
+2_distint_rate: 0.4045
+3_distint_rate: 0.4545
+4_distint_rate: 0.4943
+
+Keywords: 
+push choose bright trouble human 
+
+Final sequence: 
+
+<|endoftext|>Now that we've got that out of the way, let's talk about the pushback.
+
+
+There are a lot of people who are going to be very upset about this, and I understand that. I don't want to be the one to break it to them, but I want to be the one to tell them that this is not the way to do it.
+
+
+I want to be the one to tell them that this
+
+Success_rate: 0.2
+Perplexity: 6.93624818933449
+Time_needed: 422.8885757923126
+Success_length: 0.0
+2_distint_rate: 0.6591
+3_distint_rate: 0.7471
+4_distint_rate: 0.8023
+
+Keywords: 
+chance bed forward kill hair 
+
+Final sequence: 
+
+<|endoftext|>It is hard to chance the fate of a man who has spent his entire adult life in the bed of a car.
+
+
+But that is exactly what happened to one man in the early hours of Sunday morning when he was found unconscious in a car in the middle of the road.
+
+
+The man, who has not been named, was taken to hospital where he was pronounced dead.
+
+
+Police are now investigating the circumstances surrounding the incident
+
+Success_rate: 0.4
+Perplexity: 9.476868378672679
+Time_needed: 369.88398718833923
+Success_length: 0.0
+2_distint_rate: 0.8090
+3_distint_rate: 0.9659
+4_distint_rate: 1.0000
+
+Keywords: 
+blow mass brother market roll 
+
+Final sequence: 
+
+<|endoftext|>A new report released by the Center for American Progress found that the number of Americans living in poverty has increased by more than 50 percent since the recession began in 2007.
+
+
+The report, titled "The Economic Blow to the Poor," found that the number of Americans living in poverty has increased by more than 50 percent since the recession began in 2007.
+
+
+The report found that the number of Americans living in poverty has increased by more than 50
+
+Success_rate: 0.2
+Perplexity: 3.4501698671368457
+Time_needed: 364.35848808288574
+Success_length: 0.0
+2_distint_rate: 0.2500
+3_distint_rate: 0.2759
+4_distint_rate: 0.3023
+
+Keywords: 
+block quite dead subtract band 
+
+Final sequence: 
+
+<|endoftext|>A few blocks away from the restaurant, there was quite a bit of dead air.
+
+
+"I'm not sure what you're talking about," said a young man who had just come out of the restaurant.
+
+
+"I'm not sure what you're talking about," said a young man who had just come out of the restaurant.
+
+
+"I'm not sure what you're talking about," said a young man who had just
+
+Success_rate: 0.6
+Perplexity: 4.78648297460883
+Time_needed: 361.05601477622986
+Success_length: 0.0
+2_distint_rate: 0.1910
+3_distint_rate: 0.2045
+4_distint_rate: 0.2069
+
+Keywords: 
+difficult shine practice stream supply 
+
+Final sequence: 
+
+<|endoftext|>If you've ever wanted to know what it's like to be a member of the most difficult police force in the world, then you're in luck.
+
+
+This is the story of the most dangerous police force in the world, the Special Weapons and Tactics (SWAT) team of the New York Police Department.
+
+
+The story begins in the early 1980s, when the NYPD's Special Weapons and Tactics (SWAT) team was
+
+Success_rate: 0.2
+Perplexity: 7.7094003923572645
+Time_needed: 371.3257291316986
+Success_length: 0.0
+2_distint_rate: 0.5909
+3_distint_rate: 0.7011
+4_distint_rate: 0.7907
+
+Keywords: 
+corn magnet team symbol egg 
+
+Final sequence: 
+
+<|endoftext|>UNITED NATIONS (Reuters) - The United States and Russia on Tuesday accused Iran of violating a U.N. Security Council resolution on Syria, a day after the United States said it would no longer cooperate with the council.
+
+
+U.S. Ambassador to the United Nations Samantha Power speaks during a news conference at the United Nations in New York, September 25, 2013. REUTERS/Lucas Jackson
+
+
+The Security Council resolution
+
+Success_rate: 0.0
+Perplexity: 5.0519477638927075
+Time_needed: 355.19649267196655
+Success_length: 0.0
+2_distint_rate: 0.8764
+3_distint_rate: 0.9773
+4_distint_rate: 1.0000
+
+Keywords: 
+experiment cost third wrong melody 
+
+Final sequence: 
+
+<|endoftext|>Washington (CNN) President Donald Trump on Wednesday said he was "very disappointed" in the decision by the Department of Justice to not prosecute Hillary Clinton over her use of a private email server while she was secretary of state.
+
+
+"Hillary Clinton and her team knew what they were doing was wrong. They should have used two home-brewed servers," Trump said in a statement. "They should have used a third-party to store all
+
+Success_rate: 0.4
+Perplexity: 7.3231475578746865
+Time_needed: 326.6446969509125
+Success_length: 0.0
+2_distint_rate: 0.9545
+3_distint_rate: 0.9770
+4_distint_rate: 1.0000
+
+Keywords: 
+deal heavy cell spend shall 
+
+Final sequence: 
+
+<|endoftext|>There are a lot of ways to deal with a heavy problem like this. You can try to find a solution to the problem, or you can try to find a solution to the problem that doesn't involve the problem.
+
+
+If you can't find a solution to the problem, you can try to find a solution that doesn't involve the problem.
+
+
+If you can't find a solution to the problem, you can try to find
+
+Success_rate: 0.4
+Perplexity: 4.4162487937536845
+Time_needed: 308.38825130462646
+Success_length: 0.0
+2_distint_rate: 0.2386
+3_distint_rate: 0.2759
+4_distint_rate: 0.3140
+
+Keywords: 
+join circle describe led save 
+
+Final sequence: 
+
+<|endoftext|>To save you the trouble of trying to find the right replacement LEDs for your LED strip, we've put together a list of the best LED strips available on the market today.
+
+
+LED strips are a great way to save money on your lighting needs, but they can also be a great way to save money on your electricity bill. LED strips are a great way to save money on your lighting needs, but they can also be a great way
+
+Success_rate: 0.4
+Perplexity: 6.315537138542888
+Time_needed: 291.4804208278656
+Success_length: 0.0
+2_distint_rate: 0.4659
+3_distint_rate: 0.5057
+4_distint_rate: 0.5233
+
+Keywords: 
+stream create sugar parent crop 
+
+Final sequence: 
+
+<|endoftext|>During the past few years, there has been a lot of talk about the importance of education and the importance of creating a culture of learning in the United States. This has led to a lot of discussion about the importance of the public school system and the importance of the public school system in creating a culture of learning.
+
+
+I think it is important to note that the public school system is not the only way to create a culture of learning.
+
+Success_rate: 0.2
+Perplexity: 5.244463340549624
+Time_needed: 307.44212436676025
+Success_length: 0.0
+2_distint_rate: 0.5455
+3_distint_rate: 0.6552
+4_distint_rate: 0.7674
+
+Keywords: 
+desert wild crop bear enemy 
+
+Final sequence: 
+
+<|endoftext|>Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings.
+
+
+The White House on Monday released a list of more than 1,000 people who have been blocked from entering the United States under President Donald Trump's executive order on immigration.
+
+
+The list includes people who have been detained at U.S. airports and airports around the world, as well as those who have been denied
+
+Success_rate: 0.0
+Perplexity: 4.139650572638394
+Time_needed: 308.8997495174408
+Success_length: 0.0
+2_distint_rate: 0.8409
+3_distint_rate: 0.8966
+4_distint_rate: 0.9535
+
+Keywords: 
+paragraph anger quite general led 
+
+Final sequence: 
+
+<|endoftext|>1. Introduction
+
+
+This document describes the features of paragraph numbers in the HTML5 specification.
+
+
+2. HTML5 paragraph numbers
+
+
+Quite a few features of HTML5 paragraph numbers are described in this document. These include:
+
+
+The number of spaces before and after the paragraph number.
+
+
+The number of spaces between the paragraph number and the beginning of the paragraph.
+
+
+The number of spaces between the paragraph number
+
+Success_rate: 0.4
+Perplexity: 12.837842456106195
+Time_needed: 304.0605034828186
+Success_length: 0.0
+2_distint_rate: 0.5116
+3_distint_rate: 0.6706
+4_distint_rate: 0.7500
+
+Keywords: 
+born ride collect milk rose 
+
+Final sequence: 
+
+<|endoftext|>BENGALURU: The Aam Aadmi Party (AAP) on Monday said it will contest the Bengaluru civic polls on the lines of the Delhi assembly polls and will take on the BJP and Congress in the city.The party said it will contest the civic polls on the lines of the Delhi assembly polls and will take on the BJP and Congress in the city.The AAP said it will contest the civic polls on the lines of the
+
+Success_rate: 0.0
+Perplexity: 3.8186844452705015
+Time_needed: 309.5515019893646
+Success_length: 0.0
+2_distint_rate: 0.2921
+3_distint_rate: 0.3295
+4_distint_rate: 0.3678
+
+Keywords: 
+cost thank summer control nose 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not be in its final form.
+
+
+AMY GOODMAN: We turn now to the case of the five-year-old Palestinian boy, Muhammad Abu Khdeir, who was killed by an Israeli settler in the West Bank city of Hebron last summer. The boy was shot and killed by an Israeli settler who was responding to a noise complaint. The boy's father, Muhammad Abu Khde
+
+Success_rate: 0.2
+Perplexity: 5.1370452826453326
+Time_needed: 291.27691650390625
+Success_length: 0.0
+2_distint_rate: 0.7471
+3_distint_rate: 0.8372
+4_distint_rate: 0.9059
+
+Keywords: 
+increase village gather summer fit 
+
+Final sequence: 
+
+<|endoftext|>Now that we have a handle on the actual increases in the cost of living in the Village, we can begin to look at the impact of the increase in the cost of living in the Village.
+
+
+The increase in the cost of living in the Village is directly related to the increase in the cost of living in the rest of the city. The increase in the cost of living in the Village is directly related to the increase in the cost of
+
+Success_rate: 0.4
+Perplexity: 4.315791554658467
+Time_needed: 292.5974152088165
+Success_length: 0.0
+2_distint_rate: 0.3636
+3_distint_rate: 0.4253
+4_distint_rate: 0.4651
+
+Keywords: 
+tone speech represent century duck 
+
+Final sequence: 
+
+<|endoftext|>U.S. Sen. Bernie Sanders, I-Vt., speaks during a campaign rally at the University of Vermont in Burlington, Vt., on Tuesday, April 19, 2016. (AP Photo/J. Scott Applewhite)
+
+
+Bernie Sanders, the Democratic presidential candidate, is expected to make a speech at the University of Vermont on Tuesday.
+
+
+The Vermont senator is expected to speak at the town hall-style event
+
+Success_rate: 0.2
+Perplexity: 4.435893436731261
+Time_needed: 298.536456823349
+Success_length: 0.0
+2_distint_rate: 0.7586
+3_distint_rate: 0.9070
+4_distint_rate: 0.9529
+
+Keywords: 
+particular summer insect rise nature 
+
+Final sequence: 
+
+<|endoftext|>There are a lot of things that can go wrong with a particular set of data. For example, if you have a lot of summer visitors to your site, you might want to use a lot of natural language processing to understand what they are looking for.
+
+
+If you are using a lot of natural language processing, you might want to make sure that you are using the right tool for the job.
+
+
+In this article, I
+
+Success_rate: 0.6
+Perplexity: 8.30850763758848
+Time_needed: 303.72085762023926
+Success_length: 0.0
+2_distint_rate: 0.6552
+3_distint_rate: 0.7674
+4_distint_rate: 0.8824
+
+Keywords: 
+anger yet experiment enter eight 
+
+Final sequence: 
+
+<|endoftext|>Image copyright Getty Images Image caption The US has been trying to persuade China to do more to rein in North Korea
+
+
+The US has urged China to do more to rein in North Korea, amid anger at the country's latest nuclear test.
+
+
+The US State Department said it was "deeply concerned" by the test, which it said was a "clear violation" of UN Security Council resolutions.
+
+
+The US has yet
+
+Success_rate: 0.4
+Perplexity: 6.888795391850277
+Time_needed: 303.33150577545166
+Success_length: 0.0
+2_distint_rate: 0.6512
+3_distint_rate: 0.7176
+4_distint_rate: 0.7738
+
+Keywords: 
+favor crowd consonant vary melody 
+
+Final sequence: 
+
+<|endoftext|>If you favor a single-payer health care system, you should be concerned about the fact that the Obama administration is trying to make it easier for employers to get around the law's requirement that they provide health insurance to their workers.
+
+
+The Obama administration is trying to make it easier for employers to get around the law's requirement that they provide health insurance to their workers.
+
+
+The administration is proposing to allow employers to get around the
+
+Success_rate: 0.2
+Perplexity: 5.985745591917542
+Time_needed: 307.4946162700653
+Success_length: 0.0
+2_distint_rate: 0.3103
+3_distint_rate: 0.3488
+4_distint_rate: 0.3765
+
+Keywords: 
+mount print particular range swim 
+
+Final sequence: 
+
+<|endoftext|>Part of the Truthout Series Planet or Profit
+
+
+(Photo: Courtesy of U.S. Department of Agriculture)
+
+
+The U.S. Department of Agriculture (USDA) has released a new report on mountaintop removal coal mining in Appalachia, which shows that the coal industry has been responsible for the deaths of more than 2,000 people in the region since 2000.
+
+
+The report, titled "Mount
+
+Success_rate: 0.2
+Perplexity: 10.699087248108537
+Time_needed: 301.36238288879395
+Success_length: 0.0
+2_distint_rate: 0.8046
+3_distint_rate: 0.8605
+4_distint_rate: 0.9059
+
+Keywords: 
+spring trip instrument subject choose 
+
+Final sequence: 
+
+<|endoftext|>BY: Follow @LizWFB
+
+
+The Obama administration is preparing to spend $1.5 billion to train and equip Syrian rebels to fight the Islamic State in Iraq and Syria (ISIS), according to a new report.
+
+
+The training program is part of a broader effort to train and equip moderate Syrian rebels to fight ISIS in Syria and Iraq, according to the Washington Free Beacon.
+
+
+The administration is also planning to provide
+
+Success_rate: 0.0
+Perplexity: 6.125364406427722
+Time_needed: 285.92106676101685
+Success_length: 0.0
+2_distint_rate: 0.7273
+3_distint_rate: 0.8506
+4_distint_rate: 0.9302
+
+Keywords: 
+fair corn tall cotton decimal 
+
+Final sequence: 
+
+<|endoftext|>Are you a fan of the New England Patriots? If so, you might want to check out the team's new stadium.
+
+
+The $1.3 billion stadium, which opened in 2013, is the largest in the NFL and is located in Foxborough, Massachusetts. It is the home of the Patriots and the New England Patriots Football Club.
+
+
+The stadium is home to the Patriots and the New England Patriots Football Club. The
+
+Success_rate: 0.0
+Perplexity: 6.296161678319986
+Time_needed: 298.2754006385803
+Success_length: 0.0
+2_distint_rate: 0.6437
+3_distint_rate: 0.7442
+4_distint_rate: 0.8000
+
+Keywords: 
+age sheet solution evening view 
+
+Final sequence: 
+
+<|endoftext|>Part of age-related macular degeneration (AMD) is the loss of the rods and cones in the retina. In this study, we investigated the effect of vitamin D supplementation on the development of AMD in mice. Mice were treated with vitamin D 3 (1,000 IU/kg/day) or vehicle (control) for 4 weeks. The mice were sacrificed at the end of the study and the rods and cones were removed. The
+
+Success_rate: 0.2
+Perplexity: 10.504650718967103
+Time_needed: 305.82791471481323
+Success_length: 0.0
+2_distint_rate: 0.8876
+3_distint_rate: 0.9545
+4_distint_rate: 0.9770
+
+Keywords: 
+child lake leg flower camp 
+
+Final sequence: 
+
+<|endoftext|>This is one of the most important things you can do to help your child with autism.
+
+
+If you are a parent of a child with autism, you may be wondering how to help your child with autism.
+
+
+There are many things you can do to help your child with autism.
+
+
+Here are some things you can do to help your child with autism.
+
+
+1. Talk to your child about his/her autism.
+
+Success_rate: 0.2
+Perplexity: 4.739153308493796
+Time_needed: 299.1235272884369
+Success_length: 0.0
+2_distint_rate: 0.4545
+3_distint_rate: 0.5287
+4_distint_rate: 0.5814
+
+Keywords: 
+shall organ connect noon steel 
+
+Final sequence: 
+
+<|endoftext|>It was the last day of the school year, and the students were preparing to leave for the summer.
+
+
+The students were all dressed in their school uniforms, and they were all ready to leave.
+
+
+However, there was one student who was not dressed in his school uniform.
+
+
+That student was a girl.
+
+
+That girl was a girl who was not a student at the school.
+
+
+That girl was a girl
+
+Success_rate: 0.0
+Perplexity: 10.124906600321042
+Time_needed: 293.942373752594
+Success_length: 0.0
+2_distint_rate: 0.5568
+3_distint_rate: 0.7816
+4_distint_rate: 0.8721
+
+Keywords: 
+truck populate brother stone bank 
+
+Final sequence: 
+
+<|endoftext|>This week we're taking a look at the life of a young man who was born with a rare genetic condition that left him with a life expectancy of just two years.
+
+
+His name is Matt, and he was born with a rare genetic condition that left him with a life expectancy of just two years.
+
+
+His parents, Matt and Lauren Stone, were in the trucking business when Matt was born.
+
+
+Matt was born with
+
+Success_rate: 0.4
+Perplexity: 8.809014110500437
+Time_needed: 297.1467492580414
+Success_length: 0.0
+2_distint_rate: 0.4659
+3_distint_rate: 0.5172
+4_distint_rate: 0.5581
+
+Keywords: 
+element control size increase speech 
+
+Final sequence: 
+
+<|endoftext|>In an interview with the New York Times, Trump said that he would "certainly consider" appointing a special prosecutor to investigate Clinton's use of a private email server while she was secretary of state.
+
+
+"I would certainly consider that," Trump said. "I think it's very important that we get back to the business of the country."
+
+
+Trump also said that he would not rule out appointing a special prosecutor to investigate Clinton
+
+Success_rate: 0.0
+Perplexity: 4.752889625026119
+Time_needed: 294.85034918785095
+Success_length: 0.0
+2_distint_rate: 0.7727
+3_distint_rate: 0.8621
+4_distint_rate: 0.9070
+

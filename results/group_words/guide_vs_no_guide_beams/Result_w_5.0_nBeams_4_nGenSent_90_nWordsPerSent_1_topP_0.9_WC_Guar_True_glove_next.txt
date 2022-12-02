@@ -34,3 +34,155 @@ Success_length: 0.7444444444444445
 3_distint_rate: 0.2069
 4_distint_rate: 0.2674
 
+Keywords: 
+summer fall winter spring autumn 
+
+Final sequence: 
+
+<|endoftext|>The summer of 2014 was a great one for Fall Out Boy. The band released their first album in five years, Spring Fever, and they continued to tour the world with Winterized, their second album. The autumn was similar, as the band released Fall Out Boy: Alive Again and then went back to the studio to write new music.
+
+
+Fall Out Boy returned to the studio for a third time in December, recording in Nashville with longtime
+
+Success_rate: 1.0
+Perplexity: 21.218672508511517
+Time_needed: 407.8164863586426
+Success_length: 0.5222222222222223
+2_distint_rate: 0.8539
+3_distint_rate: 0.9545
+4_distint_rate: 1.0000
+
+Keywords: 
+brother boy men dad male 
+
+Final sequence: 
+
+<|endoftext|>It's been a while since I've done a Brother Meets Boy comic, but I'm back with a new one. This one is about men who are male-to-female transsexuals, and how they feel about their dad when he first comes out. This one is really just me starting the new cycle in my own life. Now, I've already come out to my mother. She's pretty cool with it so far.
+
+
+
+Success_rate: 1.0
+Perplexity: 20.193742166631484
+Time_needed: 414.6782717704773
+Success_length: 0.5222222222222223
+2_distint_rate: 0.9091
+3_distint_rate: 0.9540
+4_distint_rate: 0.9767
+
+Keywords: 
+women girl sister mother female 
+
+Final sequence: 
+
+<|endoftext|>It's not just women who are being targeted by the so-called girl-power movement. Men are also being targeted by the sisters-in-arms.
+
+
+The mother of a female Missouri high school student who was kicked out of a team because of "men's rights" issues, leaked messages from the girl's dad:
+
+
+WYMT-TV reported that the father also sent a statement to the station about the school board
+
+Success_rate: 1.0
+Perplexity: 23.61647092958489
+Time_needed: 384.22583508491516
+Success_length: 0.45555555555555555
+2_distint_rate: 0.8876
+3_distint_rate: 0.9545
+4_distint_rate: 0.9770
+
+Keywords: 
+childhood adolescent infancy adulthood senescence 
+
+Final sequence: 
+
+<|endoftext|>Image copyright Getty Images Image caption The death of childhood cancer patient Lucy Meadows has raised questions about the use of adolescent cancer patients
+
+
+The death of a young cancer patient in infancy has raised questions about the use of adolescent cancer patients.
+
+
+Lucy Meadows, who died of adulthood-threatening brain cancer in 2014, was just 14 when she was diagnosed with neuroblastoma.
+
+
+Neuroblastomas cells cells neuronal neuronal neuronal senescence
+
+Success_rate: 1.0
+Perplexity: 26.28147696745903
+Time_needed: 792.093512058258
+Success_length: 1.0
+2_distint_rate: 0.6705
+3_distint_rate: 0.7931
+4_distint_rate: 0.8372
+
+Keywords: 
+cow ox pig horse sheep 
+
+Final sequence: 
+
+<|endoftext|>Over the past few years, cows have been genetically modified to produce oxalic acid, a pig-derived compound that is a potent anti-cancer agent. Horsemeat has also been genetically modified to produce oxalic acid, and sheep have been modified to produce dicamba, a weed killer.
+
+
+Many people have demanded an end to this type of farming. "A lot of people are very concerned about this," says Ken Johnson
+
+Success_rate: 1.0
+Perplexity: 14.239386466521916
+Time_needed: 416.99638199806213
+Success_length: 0.5333333333333333
+2_distint_rate: 0.7273
+3_distint_rate: 0.8046
+4_distint_rate: 0.8372
+
+Keywords: 
+noon midnight afternoon evening morning 
+
+Final sequence: 
+
+<|endoftext|>It's noon on a Saturday morning in the early afternoon, and I'm standing in the middle of a small, midnight-black parking lot in the heart of downtown Los Angeles. I'm standing in front of a three-story building that evening, across the street from the world-famous Graceland Theatre. More than just another theater, Graceland has something to say to the world in so many ways. It's where the great rapper Master P
+
+Success_rate: 1.0
+Perplexity: 18.101989384113523
+Time_needed: 377.11997509002686
+Success_length: 0.5444444444444444
+2_distint_rate: 0.8315
+3_distint_rate: 0.9545
+4_distint_rate: 0.9770
+
+Keywords: 
+valley stream basin sea lake 
+
+Final sequence: 
+
+<|endoftext|>THE HAGUE (Reuters) - The European Union is ready to take the lead in the fight against Islamic State militants in Syria and Iraq, the bloc's foreign policy chief said on Tuesday in Valley Stream, a lakeside resort in the Czech Republic.
+
+
+The basin of the Sea of Azov is seen in Zagreb, Croatia, August 29, 2016. REUTERS/Ints Kalnins
+
+
+Turkey, which is
+
+Success_rate: 1.0
+Perplexity: 16.759694703725724
+Time_needed: 563.345823764801
+Success_length: 0.6555555555555556
+2_distint_rate: 0.9540
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+mouth nose eyes ear hair 
+
+Final sequence: 
+
+<|endoftext|>Last week, the New York Times published a story about the number of people who have died from mouth and nose cancer in the United States. The story was based on eyesont ear counts, which are used to estimate the number of people who have hair loss. You can read the story here.
+
+
+The story is very straightforward. According to the Times, mouth and nose cancer deaths have doubled in two decades. The cause of the increase is
+
+Success_rate: 1.0
+Perplexity: 13.64359313885348
+Time_needed: 423.1539363861084
+Success_length: 0.5555555555555556
+2_distint_rate: 0.7955
+3_distint_rate: 0.8621
+4_distint_rate: 0.9070
+

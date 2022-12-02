@@ -882,3 +882,586 @@ Success_length: 0.7666666666666667
 3_distint_rate: 1.0000
 4_distint_rate: 1.0000
 
+Keywords: 
+enemy dad thick crowd length 
+
+Final sequence: 
+
+<|endoftext|>The first time I saw the enemy in action was in Dad's Army. I was thick-headed and crowd-pleasing lengthwise. But I
+
+Success_rate: 1.0
+Perplexity: 50.4416817442189
+Time_needed: 207.8086953163147
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+engine experiment caught chair visit 
+
+Final sequence: 
+
+<|endoftext|>It's not often that a new engine is announced for a new experiment, but that's what caught the attention of Chair of Visit Cambridge's Department of
+
+Success_rate: 1.0
+Perplexity: 45.84729456380739
+Time_needed: 219.73719477653503
+Success_length: 0.8666666666666667
+2_distint_rate: 0.9310
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+represent substance student tone million 
+
+Final sequence: 
+
+<|endoftext|>The U.S. Department of Justice is represented by the U.S Substance Abuse and Mental Health Student Assistance Program. Tone and Millionaire have a
+
+Success_rate: 1.0
+Perplexity: 38.77472000160584
+Time_needed: 223.80113554000854
+Success_length: 0.8333333333333334
+2_distint_rate: 0.8621
+3_distint_rate: 0.9286
+4_distint_rate: 1.0000
+
+Keywords: 
+ring imagine human fruit shout 
+
+Final sequence: 
+
+<|endoftext|>If you ring me up and I imagine you're a human fruit fly, I shout, "I'd like to meet your human flies, please!"
+
+Success_rate: 1.0
+Perplexity: 61.79009380829529
+Time_needed: 151.43880534172058
+Success_length: 0.5666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+matter dad flat control women 
+
+Final sequence: 
+
+<|endoftext|>In addition to the matter mentioned above, I would like to ask Dad about the flat-screen control panel on the women's side of the station.
+
+Success_rate: 1.0
+Perplexity: 35.06661527354209
+Time_needed: 204.17856359481812
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+stone anger include milk scale 
+
+Final sequence: 
+
+<|endoftext|>The stone walls of the old city of Jerusalem anger the eyes of many including those who live in the milk-producing scale of the country.
+
+
+
+Success_rate: 1.0
+Perplexity: 79.82388185253593
+Time_needed: 207.85956478118896
+Success_length: 0.8
+2_distint_rate: 0.9286
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+slip visit material reply cow 
+
+Final sequence: 
+
+<|endoftext|>Image copyright Getty Images Image caption The slip was made by a visit to the US by material from the nuclear reply to the Cowpens bomb
+
+
+
+Success_rate: 1.0
+Perplexity: 78.95788461585528
+Time_needed: 219.78971004486084
+Success_length: 0.8333333333333334
+2_distint_rate: 0.9286
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+safe drop wife eight matter 
+
+Final sequence: 
+
+<|endoftext|>Safe Injection Sites Drop In New York City, With No Wife Or Kids In The Eighties
+
+
+The matter of safe injection sites is at
+
+Success_rate: 1.0
+Perplexity: 77.42933478728881
+Time_needed: 208.08953094482422
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+ball hurry lost smell plural 
+
+Final sequence: 
+
+<|endoftext|>When it comes to ballparks, there's no hurry to get lost in the smell of the new pluralization: there's no hurry to put
+
+Success_rate: 1.0
+Perplexity: 30.979132931483775
+Time_needed: 184.79397344589233
+Success_length: 0.7333333333333333
+2_distint_rate: 0.7241
+3_distint_rate: 0.7857
+4_distint_rate: 0.8519
+
+Keywords: 
+push choose bright trouble human 
+
+Final sequence: 
+
+<|endoftext|>The latest push to legalize recreational marijuana in the Choose Bright State has hit a trouble spot in the human-animal interaction department.
+
+
+The Department
+
+Success_rate: 1.0
+Perplexity: 91.42462393144231
+Time_needed: 180.6499161720276
+Success_length: 0.6666666666666666
+2_distint_rate: 0.9333
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+chance bed forward kill hair 
+
+Final sequence: 
+
+<|endoftext|>In a recent interview with the Daily Chance, the mother of Bedelia and the first forward to be killed in the hair of a kangaroo,
+
+Success_rate: 1.0
+Perplexity: 54.460523563312584
+Time_needed: 203.4832878112793
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+blow mass brother market roll 
+
+Final sequence: 
+
+<|endoftext|>A new blowout in the mass market for high-end sports cars has been brother-sister roll call: The Brembo Brembo
+
+Success_rate: 1.0
+Perplexity: 61.74176260339737
+Time_needed: 181.33980059623718
+Success_length: 0.7
+2_distint_rate: 0.9286
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+block quite dead subtract band 
+
+Final sequence: 
+
+<|endoftext|>If you're a Blockbuster customer you may have noticed quite a few dead pixels on your Blu-ray subtractions. Bandai Namco's won
+
+Success_rate: 1.0
+Perplexity: 48.23113157644077
+Time_needed: 221.10730481147766
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+difficult shine practice stream supply 
+
+Final sequence: 
+
+<|endoftext|>If you are difficult to please, you will shine. If you practice well, you will stream. If you supply your body well, you will live
+
+Success_rate: 1.0
+Perplexity: 50.89973569271441
+Time_needed: 191.91366505622864
+Success_length: 0.7666666666666667
+2_distint_rate: 0.5862
+3_distint_rate: 0.7500
+4_distint_rate: 0.9259
+
+Keywords: 
+corn magnet team symbol egg 
+
+Final sequence: 
+
+<|endoftext|>4 Corners
+
+
+The Magnet Team is a group of symbolists, artists, egg-haters, and assorted social misfits who met
+
+Success_rate: 1.0
+Perplexity: 86.4428192890644
+Time_needed: 168.799706697464
+Success_length: 0.6333333333333333
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+experiment cost third wrong melody 
+
+Final sequence: 
+
+<|endoftext|>WASHINGTON — The experiment that cost a third of the nation's economy is wrong, and the people who melody it have as much of a stake in the
+
+Success_rate: 1.0
+Perplexity: 51.95871529983814
+Time_needed: 194.35636687278748
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+deal heavy cell spend shall 
+
+Final sequence: 
+
+<|endoftext|>The deal was brokered by heavyweights including Cellin, who is spending the weekend in Shallotte.
+
+
+One final hurdle was cleared for
+
+Success_rate: 1.0
+Perplexity: 139.20450075014273
+Time_needed: 171.9523618221283
+Success_length: 0.6333333333333333
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+join circle describe led save 
+
+Final sequence: 
+
+<|endoftext|>NEW YORK (Reuters) - Join the circle of the rich and famous who describe themselves as " led by God " save you from public scorn and ridicule
+
+Success_rate: 1.0
+Perplexity: 51.75469141055634
+Time_needed: 201.47966074943542
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+stream create sugar parent crop 
+
+Final sequence: 
+
+<|endoftext|>You can stream the video and create a sugar-free, parent-friendly version of the crop circle from your iPad or smartphone.
+
+
+Please
+
+Success_rate: 1.0
+Perplexity: 47.20153361808162
+Time_needed: 150.58789777755737
+Success_length: 0.6333333333333333
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+desert wild crop bear enemy 
+
+Final sequence: 
+
+<|endoftext|>In this article I will show you how to desert your car in the wild. This will crop up in bear country, enemy country, or anywhere where
+
+Success_rate: 1.0
+Perplexity: 42.14124188329378
+Time_needed: 197.34076929092407
+Success_length: 0.8333333333333334
+2_distint_rate: 0.9333
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+paragraph anger quite general led 
+
+Final sequence: 
+
+<|endoftext|>The last paragraph was a little angering to me because I quite like the general idea of the LED system. It is certainly a better option than a
+
+Success_rate: 1.0
+Perplexity: 36.7830438466454
+Time_needed: 157.3297884464264
+Success_length: 0.6666666666666666
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+born ride collect milk rose 
+
+Final sequence: 
+
+<|endoftext|>For the first time in a decade, born-again Christians are a ride-or-die collectible. Milked by rose-tinted
+
+Success_rate: 1.0
+Perplexity: 52.94414902777544
+Time_needed: 197.47690534591675
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+cost thank summer control nose 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A B C D E Cost of Living in Thankgiving 2018 1 Summer 2018 2 Control your nose $1.04 $
+
+Success_rate: 1.0
+Perplexity: 244.24220154459354
+Time_needed: 188.62983751296997
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+increase village gather summer fit 
+
+Final sequence: 
+
+<|endoftext|>According to a new study, increased consumption of sugar-sweetened beverages is village-wide and gathering momentum in summer. The Fitbit Flex and the
+
+Success_rate: 1.0
+Perplexity: 50.74451782159611
+Time_needed: 205.0057008266449
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+tone speech represent century duck 
+
+Final sequence: 
+
+<|endoftext|>Image copyright AFP Image caption The tone of the speech represents a shift from the centuries-old tradition of duck-and-cover calls
+
+
+A
+
+Success_rate: 1.0
+Perplexity: 34.234335849225765
+Time_needed: 159.32420659065247
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+particular summer insect rise nature 
+
+Final sequence: 
+
+<|endoftext|>This is a particular highlight of the summer for me. I've been insecting for a while now and rise to nature when it is there, whether
+
+Success_rate: 1.0
+Perplexity: 66.38915749701518
+Time_needed: 185.15615582466125
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+anger yet experiment enter eight 
+
+Final sequence: 
+
+<|endoftext|>With the recent release of the new Anger Management video game and the yet-to-be experiment in enterprising eight-year-old girl's video
+
+Success_rate: 1.0
+Perplexity: 43.91536384898201
+Time_needed: 193.6733479499817
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+favor crowd consonant vary melody 
+
+Final sequence: 
+
+<|endoftext|>Introduction
+
+
+The purpose of this favor is to crowdfund the creation of a new vowel vowel vowel vowel vowel vowel vowel vowel vowel consonant vary melody
+
+Success_rate: 1.0
+Perplexity: 105.79702378566489
+Time_needed: 240.86235904693604
+Success_length: 1.0
+2_distint_rate: 0.7241
+3_distint_rate: 0.7500
+4_distint_rate: 0.7778
+
+Keywords: 
+mount print particular range swim 
+
+Final sequence: 
+
+<|endoftext|>To mount the print head on the back of the particular range of printers you want to swim in, this guide may help:
+
+
+Tools Required
+
+Success_rate: 1.0
+Perplexity: 118.04413257518502
+Time_needed: 145.76650595664978
+Success_length: 0.6
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+spring trip instrument subject choose 
+
+Final sequence: 
+
+<|endoftext|>The New York Spring Kids trip is a great way to experience the instrumentation of the subject matter and to choose a great musical experience with your friends and
+
+Success_rate: 1.0
+Perplexity: 59.45234322317644
+Time_needed: 172.93122744560242
+Success_length: 0.7333333333333333
+2_distint_rate: 0.9310
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+fair corn tall cotton decimal 
+
+Final sequence: 
+
+<|endoftext|>If you have a fair amount of corn and tallow in your cotton, you can use it to decimalize your tablespoons.
+
+
+When you
+
+Success_rate: 1.0
+Perplexity: 47.86520786961569
+Time_needed: 155.8211328983307
+Success_length: 0.7
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+age sheet solution evening view 
+
+Final sequence: 
+
+<|endoftext|>What is the age of consent in the United States? Sheet 1 of the solution to the age of evening view consent. What is the age of consent
+
+Success_rate: 1.0
+Perplexity: 45.63654183690467
+Time_needed: 176.13261699676514
+Success_length: 0.7333333333333333
+2_distint_rate: 0.7241
+3_distint_rate: 0.8214
+4_distint_rate: 0.9259
+
+Keywords: 
+child lake leg flower camp 
+
+Final sequence: 
+
+<|endoftext|>Image copyright Getty Images Image caption Child poverty in the Lake District has been falling for the past leg of the flower- campaing campaign
+
+
+
+
+Success_rate: 1.0
+Perplexity: 81.09604348910612
+Time_needed: 184.93303537368774
+Success_length: 0.8
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+shall organ connect noon steel 
+
+Final sequence: 
+
+<|endoftext|>I can't believe I shall be writing this post in the organ of the House of Connections. Noon is steeling time!
+
+
+Please
+
+Success_rate: 1.0
+Perplexity: 100.83849175713452
+Time_needed: 191.02822542190552
+Success_length: 0.7666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+truck populate brother stone bank 
+
+Final sequence: 
+
+<|endoftext|>You may have heard that the trucking industry is in trouble. You populate your Facebook newsfeed with brother-in- stone stories bankrolled by the
+
+Success_rate: 1.0
+Perplexity: 96.23760105415836
+Time_needed: 195.52906322479248
+Success_length: 0.8666666666666667
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+element control size increase speech 
+
+Final sequence: 
+
+<|endoftext|>Getty Images
+
+
+The element of control is one of the most important size increases in the speech-recognition industry. The new digital speech-
+
+Success_rate: 1.0
+Perplexity: 47.62667809009165
+Time_needed: 135.7629313468933
+Success_length: 0.6666666666666666
+2_distint_rate: 0.9286
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
